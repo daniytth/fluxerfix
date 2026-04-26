@@ -23273,16 +23273,16 @@ msgstr "Kategória alapértelmezés használata"
 
 #: src/components/modals/tabs/appearance_tab/ThemeTab.tsx:321
 msgid "Use coal theme (pitch-black surfaces)"
-msgstr "Szen téma használata (szurokfekete felületek)"
+msgstr "Szén téma használata (szűrőkfekete felületek)"
 
 #: src/components/channel/channel_header_components/ChannelNotificationSettingsDropdown.tsx:144
 msgid "Use Community Default"
-msgstr "Közösség alapértelmezés használata"
+msgstr "Közösség Alapértelmezés Használata"
 
 #: src/components/modals/tabs/my_profile_tab/AvatarUploader.tsx:87
 #: src/components/modals/tabs/my_profile_tab/BannerUploader.tsx:79
 msgid "Use Custom Image"
-msgstr "Használjon egyedi képet"
+msgstr "Egyedi Kép Használata"
 
 #: src/components/modals/tabs/appearance_tab/ThemeTab.tsx:314
 msgid "Use dark theme"
@@ -23294,7 +23294,7 @@ msgstr "Sötét téma használata az egész alkalmazásban"
 
 #: src/components/modals/RequiredActionModal.tsx:529
 msgid "Use Different Email"
-msgstr "Másik email használata"
+msgstr "Másik Email Használata"
 
 #: src/utils/PermissionUtils.tsx:343
 msgid "Use emoji from other communities."
@@ -23303,12 +23303,12 @@ msgstr "Emoji használata más közösségekből."
 #: src/utils/PermissionUtils.tsx:342
 #: src/utils/PermissionUtils.tsx:483
 msgid "Use External Emoji"
-msgstr "Külső emoji használata"
+msgstr "Külső Emoji Használata"
 
 #: src/utils/PermissionUtils.tsx:347
 #: src/utils/PermissionUtils.tsx:484
 msgid "Use External Stickers"
-msgstr "Külső matricák használata"
+msgstr "Külső Matricák Használata"
 
 #: src/components/bottomsheets/ChannelSearchBottomSheet.tsx:279
 msgid "Use filters or enter keywords to find messages"
@@ -23317,7 +23317,7 @@ msgstr "Használj szűrőket vagy írj be kulcsszavakat az üzenetek megtalálá
 #: src/components/modals/tabs/my_profile_tab/AvatarUploader.tsx:82
 #: src/components/modals/tabs/my_profile_tab/BannerUploader.tsx:74
 msgid "Use Global Profile"
-msgstr "Használja a globális profilt"
+msgstr "Globális Profil Használata"
 
 #: src/components/modals/tabs/appearance_tab/ThemeTab.tsx:328
 msgid "Use light theme"
@@ -23329,7 +23329,7 @@ msgstr "Passkey-k használata jelszó nélküli bejelentkezéshez és kétfaktor
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:220
 msgid "Use Reverification Text"
-msgstr "Újraellenőrző szöveg használata"
+msgstr "Újraellenőrző Szöveg Használata"
 
 #: src/components/modals/SudoVerificationModal.tsx:291
 msgid "Use security key"
@@ -23362,7 +23362,7 @@ msgstr "Használd ezt a gyorsbillentyűt rendszerszinten"
 #: src/utils/PermissionUtils.tsx:401
 #: src/utils/PermissionUtils.tsx:507
 msgid "Use Voice Activity"
-msgstr "Hangaktivitás használata"
+msgstr "Hangaktivitás Használata"
 
 #. placeholder {0}: renderValueInline(value, guildId, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:209
@@ -23400,7 +23400,7 @@ msgstr "felhasználói avatárok"
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:455
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:967
 msgid "User Debug"
-msgstr "Felhasználó hibakeresés"
+msgstr "Felhasználó Hibakeresés"
 
 #: src/components/channel/channel_view/DMChannelView.tsx:929
 msgid "User has vanished"
@@ -23408,7 +23408,7 @@ msgstr "A felhasználó eltűnt"
 
 #: src/components/pages/report/ReportStepDetails.tsx:137
 msgid "User ID (Optional)"
-msgstr "Felhasználói azonosító (opcionális)"
+msgstr "Felhasználói ID (opcionális)"
 
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:447
 msgid "User ID copied"
@@ -23416,7 +23416,7 @@ msgstr "Felhasználó ID másolva"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:768
 msgid "User ID copied to clipboard"
-msgstr "Felhasználói azonosító másolva a vágólapra"
+msgstr "Felhasználói ID másolva a vágólapra"
 
 #: src/constants/IARConstants.tsx:125
 msgid "User is impersonating someone else"
@@ -23424,11 +23424,11 @@ msgstr "A felhasználó valaki mást utánoz"
 
 #: src/utils/SoundLabels.tsx:31
 msgid "User Joins Channel"
-msgstr "Felhasználó csatlakozik a csatornához"
+msgstr "Felhasználó Csatlakozik a Csatornához"
 
 #: src/utils/SoundLabels.tsx:32
 msgid "User Leaves Channel"
-msgstr "Felhasználó elhagyja a csatornát"
+msgstr "Felhasználó Elhagyja a Csatornát"
 
 #: src/components/modals/components/DesktopGuildSettingsView.tsx:69
 #: src/components/modals/components/MobileGuildSettingsView.tsx:85
@@ -23437,36 +23437,36 @@ msgstr "Felhasználókezelés"
 
 #: src/utils/SoundLabels.tsx:33
 msgid "User Moved Channel"
-msgstr "Felhasználó áthelyezte a csatornát"
+msgstr "Felhasználó Áthelyezve Egy Másik Csatornába"
 
 #: src/components/modals/tabs/component_gallery_tab/InputsTab.tsx:133
 #: src/components/modals/UserProfileModal.tsx:987
 msgid "User Profile"
-msgstr "Felhasználói profil"
+msgstr "Felhasználói Profil"
 
 #: src/components/modals/UserProfileModal.tsx:989
 msgid "User Profile: {tag}"
-msgstr "Felhasználói profil: {tag}"
+msgstr "Felhasználói Profil: {tag}"
 
 #: src/components/debug/UserDebugModal.tsx:39
 msgid "User Record"
-msgstr "Felhasználói nyilvántartás"
+msgstr "Felhasználói Nyilvántartás"
 
 #: src/components/layout/UserArea.tsx:286
 #: src/components/layout/UserArea.tsx:291
 #: src/components/modals/components/DesktopSettingsView.tsx:357
 #: src/components/modals/UserSettingsModal.tsx:153
 msgid "User Settings"
-msgstr "Felhasználói beállítások"
+msgstr "Felhasználói Beállítások"
 
 #: src/components/pages/report/ReportStepDetails.tsx:146
 msgid "User Tag (Optional)"
-msgstr "Felhasználói címke (opcionális)"
+msgstr "Felhasználói Címke (opcionális)"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:633
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:204
 msgid "User Volume"
-msgstr "Felhasználó hangerő"
+msgstr "Felhasználó Hangerő"
 
 #: src/utils/SearchUtils.tsx:294
 msgid "user, bot or webhook"
@@ -23636,7 +23636,7 @@ msgstr "ellenőrzés"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:45
 msgid "Verification Barriers"
-msgstr "Ellenőrzési akadályok"
+msgstr "Ellenőrzési Akadályok"
 
 #: src/components/modals/ClaimAccountModal.tsx:198
 #: src/components/modals/EmailChangeModal.tsx:223
@@ -23647,7 +23647,7 @@ msgstr "Ellenőrzési akadályok"
 #: src/components/modals/RequiredActionModal.tsx:639
 #: src/components/pages/report/ReportStepVerification.tsx:86
 msgid "Verification Code"
-msgstr "Ellenőrző kód"
+msgstr "Ellenőrző Kód"
 
 #: src/components/modals/ClaimAccountModal.tsx:92
 msgid "Verification code sent"
@@ -23673,20 +23673,20 @@ msgstr "Előfordulhat, hogy ellenőrzés szükséges a tartalék kódjaid megtek
 
 #: src/components/guild/GuildBadge.tsx:57
 msgid "Verified & Partnered Community"
-msgstr "Ellenőrzött és partnerek közössége"
+msgstr "Ellenőrzött és Partnerek Közösség"
 
 #: src/components/emojis/EmojiAttributionSubtext.tsx:144
 #: src/components/guild/GuildBadge.tsx:59
 msgid "Verified Community"
-msgstr "Ellenőrzött közösség"
+msgstr "Ellenőrzött Közösség"
 
 #: src/utils/modals/guild_tabs/GuildAuditLogTabUtils.tsx:279
 msgid "Verified guild"
-msgstr "Ellenőrzött céh"
+msgstr "Ellenőrzött szerver"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:316
 msgid "verify"
-msgstr "ellenőrizni"
+msgstr "ellenőriz"
 
 #: src/components/modals/AddConnectionModal.tsx:315
 #: src/components/modals/EmailChangeModal.tsx:239
@@ -23698,11 +23698,11 @@ msgstr "Ellenőriz"
 
 #: src/components/pages/report/ReportStepVerification.tsx:102
 msgid "Verify Code"
-msgstr "Kód ellenőrzése"
+msgstr "Kód Ellenőrzése"
 
 #: src/components/modals/AddConnectionModal.tsx:232
 msgid "Verify Connection"
-msgstr "Kapcsolat ellenőrzése"
+msgstr "Kapcsolat Ellenőrzése"
 
 #: src/components/modals/AddConnectionModal.tsx:231
 msgid "Verify connection form"
@@ -23711,7 +23711,7 @@ msgstr "Kapcsolat ellenőrző űrlap"
 #: src/components/channel/barriers/BarrierComponents.tsx:158
 #: src/components/pages/VerifyEmailPage.tsx:55
 msgid "Verify Email"
-msgstr "E-mail ellenőrzése"
+msgstr "E-mail Ellenőrzése"
 
 #: src/components/modals/SudoVerificationModal.tsx:361
 msgid "Verify identity form"
@@ -23719,7 +23719,7 @@ msgstr "Személyazonosság ellenőrzési űrlap"
 
 #: src/components/modals/PhoneAddModal.tsx:219
 msgid "Verify Phone Number"
-msgstr "Ellenőrizze a telefonszámot"
+msgstr "Ellenőrizze a Telefonszámot"
 
 #: src/components/modals/PhoneAddModal.tsx:218
 msgid "Verify phone number form"
@@ -23727,7 +23727,7 @@ msgstr "Telefonszám ellenőrzési űrlap"
 
 #: src/components/modals/CaptchaModal.tsx:133
 msgid "Verify You're Human"
-msgstr "Igazold, hogy ember vagy"
+msgstr "Igazold, Hogy Ember Vagy"
 
 #: src/components/pages/report/ReportStepEmail.tsx:54
 msgid "Verify your email"
@@ -23735,7 +23735,7 @@ msgstr "Ellenőrizd az e-mailed."
 
 #: src/components/modals/SudoVerificationModal.tsx:362
 msgid "Verify Your Identity"
-msgstr "Igazolja a személyazonosságát"
+msgstr "Igazolja a Személyazonosságát"
 
 #: src/components/modals/SudoVerificationModal.tsx:286
 msgid "Verifying..."
@@ -23800,12 +23800,12 @@ msgstr "Videó minőség"
 
 #: src/components/modals/ScreenShareSettingsModal.tsx:81
 msgid "Video Quality"
-msgstr "Videó minőség"
+msgstr "Videó Minőség"
 
 #: src/components/bottomsheets/VoiceSettingsBottomSheets.tsx:227
 #: src/components/voice/VoiceSettingsMenus.tsx:379
 msgid "Video Settings"
-msgstr "Videó beállítások"
+msgstr "Videó Beállítások"
 
 #: src/components/channel/embeds/media/EmbedVideo.tsx:99
 #: src/components/channel/embeds/media/EmbedVideo.tsx:108
@@ -23824,7 +23824,7 @@ msgstr "Videók"
 
 #: src/utils/LocaleUtils.tsx:69
 msgid "Vietnamese"
-msgstr "Vietnámi"
+msgstr "Vietnám"
 
 #. placeholder {0}: user.username
 #: src/components/modals/tabs/BlockedUsersTab.tsx:160
@@ -23838,7 +23838,7 @@ msgstr "Aktív munkamenetek megtekintése"
 
 #: src/utils/PermissionUtils.tsx:240
 msgid "View Activity Log"
-msgstr "Tevékenységnapló megtekintése"
+msgstr "Tevékenységnapló Megtekintése"
 
 #: src/components/modals/guild_tabs/GuildInvitesTab.tsx:71
 msgid "View all invites for this community. To create a new invite, go to a channel and use the invite button."
@@ -23846,7 +23846,7 @@ msgstr "Tekintsd meg az összes meghívót ehhez a közösséghez. Új meghívó
 
 #: src/components/channel/GuildMembersPage.tsx:407
 msgid "View All Roles"
-msgstr "Összes szerep megtekintése"
+msgstr "Összes Rang Megtekintése"
 
 #: src/components/popouts/UnreadChannelsContent.tsx:309
 msgid "View all unread"
@@ -23870,7 +23870,7 @@ msgstr "Tekintsd meg és kezeld a biztonsági kódjaidat a fiók helyreállítá
 
 #: src/components/modals/BackupCodesViewModal.tsx:64
 msgid "View Backup Codes"
-msgstr "Biztonsági kódok megtekintése"
+msgstr "Biztonsági Kódok Megtekintése"
 
 #: src/components/modals/BackupCodesViewModal.tsx:63
 msgid "View backup codes form"
@@ -23878,20 +23878,20 @@ msgstr "Biztonsági kódok űrlap megtekintése"
 
 #: src/components/channel/channel_view/DMChannelView.tsx:762
 msgid "View call"
-msgstr "Hívás megtekintése"
+msgstr "Hívás Megtekintése"
 
 #: src/components/voice/VoiceCallView.tsx:470
 msgid "View call controls"
-msgstr "Hívásvezérlők megtekintése"
+msgstr "Hívásvezérlők Megtekintése"
 
 #: src/utils/PermissionUtils.tsx:380
 #: src/utils/PermissionUtils.tsx:460
 msgid "View Channel"
-msgstr "Csatorna megtekintése"
+msgstr "Csatorna Megtekintése"
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:268
 msgid "View Codes"
-msgstr "Kódok megtekintése"
+msgstr "Kódok Megtekintése"
 
 #: src/components/modals/UserProfileActionsSheet.tsx:195
 #: src/components/modals/UserProfileModal.tsx:1143
