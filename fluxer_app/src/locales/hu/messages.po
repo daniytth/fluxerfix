@@ -22810,7 +22810,7 @@ msgstr "Kategória némításának feloldása"
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:486
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:169
 msgid "Unmute Channel"
-msgstr "Csatorna némításának feloldása"
+msgstr "Csatorna Némításának Feloldása"
 
 #: src/components/bottomsheets/GuildHeaderBottomSheet.tsx:96
 #: src/components/uikit/context_menu/FavoritesGuildContextMenu.tsx:54
@@ -22818,7 +22818,7 @@ msgstr "Csatorna némításának feloldása"
 #: src/components/uikit/context_menu/items/GuildMenuData.tsx:329
 #: src/components/uikit/context_menu/items/GuildMenuItems.tsx:165
 msgid "Unmute Community"
-msgstr "Közösség némításának feloldása"
+msgstr "Közösség Némításának Feloldása"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:1148
 #: src/components/bottomsheets/DMBottomSheet.tsx:62
@@ -22826,15 +22826,15 @@ msgstr "Közösség némításának feloldása"
 #: src/components/uikit/context_menu/GroupDMContextMenu.tsx:82
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:582
 msgid "Unmute Conversation"
-msgstr "Beszélgetés némításának feloldása"
+msgstr "Beszélgetés Némításának Feloldása"
 
 #: src/components/channel/direct_message/DMList.tsx:805
 msgid "Unmute DM"
-msgstr "Némítás feloldása DM-ben"
+msgstr "Némítás Feloldása DM-ben"
 
 #: src/components/bottomsheets/FavoritesGuildHeaderBottomSheet.tsx:97
 msgid "Unmute Favorites"
-msgstr "Kedvencek némításának feloldása"
+msgstr "Kedvencek Némításának Feloldása"
 
 #: src/components/voice/VoiceParticipantTile.tsx:1024
 msgid "Unmute stream audio"
@@ -22847,7 +22847,7 @@ msgstr "Névtelen"
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/IdleSettingsSection.tsx:45
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/SystemWelcomeSection.tsx:41
 msgid "Unnamed channel"
-msgstr "Névtelen csatorna"
+msgstr "Névtelen Csatorna"
 
 #: src/components/channel/InviteEmbed.tsx:163
 #: src/stores/ChannelDisplayNameStore.tsx:135
@@ -22856,7 +22856,7 @@ msgstr "Névtelen csatorna"
 #: src/stores/ChannelDisplayNameStore.tsx:156
 #: src/utils/ChannelUtils.tsx:102
 msgid "Unnamed Group"
-msgstr "Névtelen csoport"
+msgstr "Névtelen Csoport"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:1190
 #: src/components/channel/direct_message/DMList.tsx:586
@@ -22864,19 +22864,19 @@ msgstr "Névtelen csoport"
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:400
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:612
 msgid "Unpin DM"
-msgstr "Privát üzenet rögzítésének feloldása"
+msgstr "Privát üzenet rögzítésének törlése"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:1190
 #: src/components/channel/direct_message/DMList.tsx:547
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:347
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:612
 msgid "Unpin Group DM"
-msgstr "Csoport privát üzenet rögzítésének feloldása"
+msgstr "Csoport privát üzenet rögzítésének törlése"
 
 #: src/components/channel/MessageActionUtils.tsx:413
 #: src/components/shared/ChannelPinsContent.tsx:102
 msgid "Unpin it"
-msgstr "Rögzítés feloldása"
+msgstr "Rögzítés törlése"
 
 #: src/components/channel/MessageActionBar.tsx:519
 #: src/components/channel/MessageActionBar.tsx:735
@@ -22886,7 +22886,7 @@ msgstr "Rögzítés feloldása"
 #: src/components/shared/ChannelPinsContent.tsx:260
 #: src/components/uikit/context_menu/items/MessageMenuItems.tsx:163
 msgid "Unpin Message"
-msgstr "Üzenet rögzítésének feloldása"
+msgstr "Üzenet Rögzítésének Törlése"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:697
 #: src/components/channel/direct_message/DMList.tsx:528
@@ -22918,7 +22918,7 @@ msgstr "Csak olvasatlan privát üzenetek"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:87
 msgid "Unread Gift Count"
-msgstr "Olvasatlan ajándékok száma"
+msgstr "Olvasatlan Ajándékok Száma"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:75
 msgid "Unread gift inventory override"
@@ -22945,7 +22945,7 @@ msgstr "Nem támogatott fájlformátum. Kérlek, használj JPG, PNG, GIF, WebP v
 #: src/components/channel/MessageActionMenu.tsx:261
 #: src/components/uikit/context_menu/items/MessageMenuItems.tsx:186
 msgid "Unsuppress Embeds"
-msgstr "Beágyazások visszaállítása"
+msgstr "Beágyazások Visszaállítása"
 
 #: src/components/modals/StatusChangeBottomSheet.tsx:60
 msgid "Until I change it"
@@ -22957,7 +22957,7 @@ msgstr "Amíg újra be nem kapcsolom"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:52
 msgid "Unverified Email"
-msgstr "Nem ellenőrzött e-mail"
+msgstr "Nem Ellenőrzött E-mail"
 
 #: src/components/modals/components/FeatureComparisonTable.tsx:62
 msgid "Up to 4K/60fps"
@@ -22969,19 +22969,19 @@ msgstr "Frissítés"
 
 #: src/components/ErrorFallback.tsx:123
 msgid "Update app"
-msgstr "Alkalmazás frissítése"
+msgstr "Alkalmazás Frissítése"
 
 #: src/components/modals/RequiredActionModal.tsx:509
 msgid "Update Email"
-msgstr "Email frissítése"
+msgstr "Email Frissítése"
 
 #: src/components/modals/components/MobileSettingsView.tsx:157
 msgid "Update Service Worker"
-msgstr "Service Worker frissítése"
+msgstr "Service Worker Frissítése"
 
 #: src/components/modals/TimeoutMemberSheet.tsx:142
 msgid "Update Timeout"
-msgstr "Időtúllépés frissítése"
+msgstr "Felfüggesztés Frissítése"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/BrandingSection.tsx:154
 msgid "Update your icon, name, banner, and invite background"
@@ -22993,25 +22993,25 @@ msgstr "Frissítsd a saját beceneved."
 
 #: src/components/modals/PasswordChangeModal.tsx:133
 msgid "Update Your Password"
-msgstr "Frissítse a jelszavát"
+msgstr "Frissítse a Jelszavát"
 
 #. placeholder {0}: renderValueInline(change.oldValue, guildId, i18n)
 #. placeholder {1}: renderValueInline(change.newValue, guildId, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:149
 msgid "Updated {fieldNode} from {0} to {1}."
-msgstr "Frissítve a {fieldNode} értéke {0}-ról {1}-re."
+msgstr "Frissítve a(z) {fieldNode} értéke {0}-ról/ről {1}-ra/re."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:172
 msgid "Updated {fieldNode}."
-msgstr "Frissítve a {fieldNode}."
+msgstr "Frissítve a(z) {fieldNode}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:188
 msgid "Updated allowed permissions."
-msgstr "Engedélyezett engedélyek frissítve."
+msgstr "Engedélyezett jogosultságok frissítve."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:202
 msgid "Updated denied permissions."
-msgstr "Megtagadott engedélyek frissítve."
+msgstr "Megtagadott jogosultságok frissítve."
 
 #: src/actions/FavoriteMemeActionCreators.tsx:153
 msgid "Updated saved media"
@@ -23058,7 +23058,7 @@ msgstr "Frissítette a névmásokat erre: {0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:665
 msgid "Updated the role icon."
-msgstr "Frissítette a szerep ikont."
+msgstr "Frissítette a rang ikont."
 
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:712
@@ -23084,12 +23084,12 @@ msgstr "frissítés"
 
 #: src/components/modals/components/plutonium/PricingSection.tsx:85
 msgid "Upgrade Now"
-msgstr "Frissíts most"
+msgstr "Frissíts Most"
 
 #: src/components/alerts/MaxBookmarksModal.tsx:72
 #: src/components/alerts/MaxFavoriteMemesModal.tsx:70
 msgid "Upgrade to Plutonium"
-msgstr "Frissíts Plutoniumra"
+msgstr "Frissíts Plutóniumra"
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:672
 msgid "Upgrade to store up to 15 custom backgrounds and unlock HD video quality, higher frame rates, and more."
@@ -23117,20 +23117,20 @@ msgstr "Tölts fel egy egyéni hangot, amely lejátszódik, amikor belépsz egy 
 
 #: src/stores/KeybindStore.tsx:505
 msgid "Upload a File"
-msgstr "Fájl feltöltése"
+msgstr "Egy Fájl Feltöltése"
 
 #: src/utils/modals/AnimatedAvifModalUtils.tsx:43
 msgid "Upload As-Is"
-msgstr "Feltöltés változtatás nélkül"
+msgstr "Feltöltés Változtatás Nélkül"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/fields/GuildEmbedSplashUploadField.tsx:91
 #: src/components/modals/guild_tabs/guild_overview_tab/fields/GuildInviteSplashUploadField.tsx:103
 msgid "Upload Background"
-msgstr "Háttér feltöltése"
+msgstr "Háttér Feltöltése"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/fields/GuildBannerUploadField.tsx:110
 msgid "Upload Banner"
-msgstr "Banner feltöltése"
+msgstr "Banner Feltöltése"
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:601
 msgid "Upload custom background"
@@ -23138,11 +23138,11 @@ msgstr "Egyéni háttér feltöltése"
 
 #: src/components/modals/BackgroundImageGalleryModal.tsx:607
 msgid "Upload Custom Background"
-msgstr "Egyéni háttér feltöltése"
+msgstr "Egyéni Háttér Feltöltése"
 
 #: src/components/modals/tabs/notifications_tab/Sounds.tsx:96
 msgid "Upload Custom Sound"
-msgstr "Töltse fel a saját hangját"
+msgstr "Egyedi hang Feltöltése"
 
 #: src/components/modals/UploadDropModal.tsx:50
 msgid "Upload directly to {displayName}"
@@ -23150,27 +23150,27 @@ msgstr "Közvetlen feltöltés ide: {displayName}"
 
 #: src/components/modals/guild_tabs/GuildEmojiTab.tsx:347
 msgid "Upload Emoji"
-msgstr "Emoji feltöltése"
+msgstr "Emoji Feltöltése"
 
 #: src/components/modals/tabs/components/EntranceSoundSection.tsx:120
 msgid "Upload Entrance Sound"
-msgstr "Belépési hang feltöltése"
+msgstr "Belépési Hang Feltöltése"
 
 #: src/components/channel/textarea/MobileTextareaPlusBottomSheet.tsx:45
 #: src/components/channel/textarea/TextareaPlusMenu.tsx:72
 msgid "Upload File"
-msgstr "Fájl feltöltése"
+msgstr "Fájl Feltöltése"
 
 #: src/components/modals/AddGuildModal.tsx:329
 #: src/components/modals/EditGroupBottomSheet.tsx:214
 #: src/components/modals/EditGroupModal.tsx:195
 #: src/components/modals/guild_tabs/guild_overview_tab/fields/GuildIconUploadField.tsx:97
 msgid "Upload Icon"
-msgstr "Ikon feltöltése"
+msgstr "Ikon Feltöltése"
 
 #: src/components/webhooks/WebhookListItem.tsx:213
 msgid "Upload Image"
-msgstr "Kép feltöltése"
+msgstr "Kép Feltöltése"
 
 #: src/utils/PermissionUtils.tsx:285
 msgid "Upload new emoji and stickers, and manage your own creations."
@@ -23182,7 +23182,7 @@ msgstr "hang feltöltése"
 
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:180
 msgid "Upload Sticker"
-msgstr "Matrica feltöltése"
+msgstr "Matrica Feltöltése"
 
 #: src/components/modals/UploadDropModal.tsx:50
 msgid "Upload to {displayName}"
@@ -23207,7 +23207,7 @@ msgstr "Feltöltés: {emojiText}. Ez egy kis időt vehet igénybe."
 
 #: src/components/modals/EmojiUploadModal.tsx:37
 msgid "Uploading Emojis"
-msgstr "Emojik feltöltése"
+msgstr "Emojik Feltöltése"
 
 #: src/components/modals/channel_tabs/ChannelOverviewTab.tsx:491
 #: src/components/modals/ChannelCreateModal.tsx:90
@@ -23235,12 +23235,12 @@ msgstr "URL-ek az üzeneteid mellékleteinek letöltéséhez"
 #: src/components/voice/VoiceRegionSelector.tsx:75
 #: src/components/voice/VoiceSettingsMenus.tsx:433
 msgid "US East"
-msgstr "USA kelet"
+msgstr "USA Kelet"
 
 #: src/utils/PermissionUtils.tsx:337
 #: src/utils/PermissionUtils.tsx:479
 msgid "Use @everyone/@here and @roles"
-msgstr "Használd a @everyone/@here és @roles címkéket"
+msgstr "@everyone/@here és @roles Használata"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/MessageHistoryCutoffSection.tsx:37
 msgid "Use a dedicated modal to set a message history threshold date for members who don't have Read Message History."
@@ -23248,7 +23248,7 @@ msgstr "Használj egy dedikált modált, hogy üzenetelőzmények küszöbérté
 
 #: src/components/modals/tabs/developer_options_tab/NagbarsTab.tsx:70
 msgid "Use Actual"
-msgstr "Valós használat"
+msgstr "Valós Használat"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:49
 msgid "Use actual premium type"
@@ -23260,7 +23260,7 @@ msgstr "Használj egy hitelesítő alkalmazást kétfaktoros azonosításhoz sz�
 
 #: src/components/modals/components/FeatureComparisonTable.tsx:55
 msgid "Use animated emojis"
-msgstr "Animált emojik használata"
+msgstr "Animált Emojik Használata"
 
 #: src/components/modals/tabs/LanguageTab.tsx:175
 msgid "Use browser locale for time format"
@@ -23269,7 +23269,7 @@ msgstr "Böngésző területi beállításának használata időformátumhoz"
 #: src/components/channel/channel_header_components/ChannelNotificationSettingsDropdown.tsx:144
 #: src/utils/ContextMenuUtils.tsx:177
 msgid "Use Category Default"
-msgstr "Kategória alapértelmezés használata"
+msgstr "Kategória Alapértelmezés Használata"
 
 #: src/components/modals/tabs/appearance_tab/ThemeTab.tsx:321
 msgid "Use coal theme (pitch-black surfaces)"
