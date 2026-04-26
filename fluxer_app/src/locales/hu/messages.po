@@ -57,7 +57,7 @@ msgstr "... ({remainingLineCount} sor maradt)"
 
 #: src/components/channel/embeds/attachments/TextualAttachmentPreview.tsx:165
 msgid "... ({remainingLineCount} lines left)"
-msgstr "... ({remainingLineCount} sor maradt)"
+msgstr "... ({remainingLineCount} sorok maradtak)"
 
 #: src/components/modals/tabs/appearance_tab/MessagesTab.tsx:94
 msgid "... turn dense mode on. Nice!"
@@ -24953,19 +24953,19 @@ msgstr "Nem törölheted a fiókod, amíg közösségek tulajdonosa vagy. Elősz
 
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:705
 msgid "You cannot edit a role at or above your highest role"
-msgstr "Nem szerkeszthetsz olyan szerepet, ami a legmagasabb szerepeddel egyenlő vagy magasabb"
+msgstr "Nem szerkeszthetsz olyan rangot, ami a legmagasabb rangoddal egyenlő vagy magasabb"
 
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:233
 msgid "You cannot edit this role because it is your highest role or above you"
-msgstr "Nem szerkesztheted ezt a szerepet, mert ez a legmagasabb szereped, vagy magasabb nálad"
+msgstr "Nem szerkesztheted ezt a rangot, mert ez a legmagasabb rangod, vagy magasabb nálad"
 
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:706
 msgid "You cannot grant a permission you don't have"
-msgstr "Nem adhatsz olyan engedélyt, ami nincs neked"
+msgstr "Nem adhatsz olyan jogousltságot, ami nincs neked"
 
 #: src/components/modals/channel_tabs/ChannelPermissionsTab.tsx:316
 msgid "You cannot grant a permission you don't have in this channel"
-msgstr "Nem adhatsz olyan engedélyt ebben a csatornában, ami nincs neked"
+msgstr "Nem adhatsz olyan jogousltságot ebben a csatornában, ami nincs neked"
 
 #: src/components/alerts/PinFailedModal.tsx:38
 msgid "You cannot interact with this user right now."
@@ -24980,7 +24980,7 @@ msgstr "Nem váltasz be Plutonium ajándékkódokat, amíg Visionary prémiumod 
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:708
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:728
 msgid "You cannot remove this permission because it would remove it from yourself"
-msgstr "Nem távolíthatod el ezt az engedélyt, mert magadtól is elvennéd"
+msgstr "Nem távolíthatod el ezt az jogousltságot, mert magadtól is elvennéd"
 
 #: src/components/alerts/RoleNameBlankModal.tsx:29
 msgid "You cannot save a role with a blank name. Please provide a valid name before saving."
@@ -25343,7 +25343,7 @@ msgstr "Túl gyorsan küldöd az üzeneteket"
 
 #: src/components/voice/StreamWatchHoverPopout.tsx:167
 msgid "You're Streaming!"
-msgstr "Te most streamelsz!"
+msgstr "Te Most Streamelsz!"
 
 #: src/components/channel/Messages.tsx:686
 msgid "You're viewing older messages"
@@ -25434,7 +25434,7 @@ msgstr "Láttad az összes legutóbbi említésed. Ne aggódj, hamarosan itt fog
 
 #: src/components/modals/utils/SettingsConstants.tsx:98
 msgid "Your Account"
-msgstr "A fiókod"
+msgstr "A Fiókod"
 
 #: src/components/pages/ConnectionCallbackPage.tsx:44
 msgid "Your account has been linked successfully. You can now close this tab and return to the app."
@@ -25536,7 +25536,7 @@ msgstr "Az IP-címed ki van tiltva ebből a közösségből, és nem csatlakozha
 
 #: src/components/alerts/UserIpBannedFromGuildModal.tsx:29
 msgid "Your IP is Banned"
-msgstr "Az IP-címed ki van tiltva"
+msgstr "Az IP-Címed Ki Van Tiltva"
 
 #: src/lib/MessageQueue.tsx:386
 msgid "Your message could not be delivered. This is usually because you don't share a community with the recipient or the recipient is only accepting direct messages from friends."
@@ -25588,7 +25588,7 @@ msgstr "A profilja bemutatkozása túl hosszú."
 
 #: src/components/modals/tabs/GiftInventoryTab.tsx:301
 msgid "Your Purchased Gifts"
-msgstr "A megvásárolt ajándékaid"
+msgstr "A Megvásárolt Ajándékaid"
 
 #: src/utils/GeoUtils.tsx:26
 msgid "your region"
