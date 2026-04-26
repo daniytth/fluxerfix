@@ -23896,26 +23896,26 @@ msgstr "Kódok megtekintése"
 #: src/components/modals/UserProfileActionsSheet.tsx:195
 #: src/components/modals/UserProfileModal.tsx:1143
 msgid "View Community Profile"
-msgstr "Közösségi profil megtekintése"
+msgstr "Közösségi Profil Megtekintése"
 
 #: src/components/modals/guild_tabs/BannedUserActionsSheet.tsx:65
 #: src/components/uikit/context_menu/BannedUserContextMenu.tsx:52
 msgid "View Details"
-msgstr "Részletek megtekintése"
+msgstr "Részletek Megtekintése"
 
 #: src/components/popouts/UserProfileShared.tsx:178
 msgid "View Full Profile"
-msgstr "Teljes profil megtekintése"
+msgstr "Teljes Profil Megtekintése"
 
 #: src/components/layout/app_layout/nagbars/GiftInventoryNagbar.tsx:56
 #: src/components/modals/components/plutonium/GiftInventoryBanner.tsx:54
 msgid "View Gift Inventory"
-msgstr "Ajándékinventár megtekintése"
+msgstr "Ajándék Leltár Megtekintése"
 
 #: src/components/modals/UserProfileActionsSheet.tsx:195
 #: src/components/modals/UserProfileModal.tsx:1143
 msgid "View Global Profile"
-msgstr "Globális profil megtekintése"
+msgstr "Globális Profil Megtekintése"
 
 #: src/components/common/ExpiryFootnoteContextMenu.tsx:44
 msgid "View help article"
@@ -23927,7 +23927,7 @@ msgstr "Bejövő hívás megtekintése"
 
 #: src/components/uikit/context_menu/MessageContextMenu.tsx:393
 msgid "View More"
-msgstr "Továbbiak megtekintése"
+msgstr "Továbbiak Megtekintése"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:142
 msgid "View or regenerate backup codes"
@@ -23935,11 +23935,11 @@ msgstr "Biztonsági kódok megtekintése vagy újragenerálása"
 
 #: src/components/modals/components/plutonium/PlutoniumUpsellBanner.tsx:30
 msgid "View Plans"
-msgstr "Csomagok megtekintése"
+msgstr "Csomagok Megtekintése"
 
 #: src/components/layout/app_layout/nagbars/PremiumOnboardingNagbar.tsx:56
 msgid "View Premium Features"
-msgstr "Prémium funkciók megtekintése"
+msgstr "Prémium Funkciók Megtekintése"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:270
 msgid "View premium perks"
@@ -23953,15 +23953,15 @@ msgstr "Prémium előnyök megtekintése"
 #: src/components/uikit/context_menu/items/UserProfileMenuItem.tsx:44
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:337
 msgid "View Profile"
-msgstr "Profil megtekintése"
+msgstr "Profil Megtekintése"
 
 #: src/components/modals/components/plutonium/PurchaseHistorySection.tsx:51
 msgid "View Purchase History"
-msgstr "Vásárlási előzmények megtekintése"
+msgstr "Vásárlási Előzmények Megtekintése"
 
 #: src/components/channel/MessageActionMenu.tsx:190
 msgid "View Reactions"
-msgstr "Reakciók megtekintése"
+msgstr "Reakciók Megtekintése"
 
 #: src/AppConstants.tsx:28
 msgid "View the communities you are a member of"
@@ -23981,20 +23981,20 @@ msgstr "Tekintsd meg az e-mail címed"
 
 #: src/utils/SoundLabels.tsx:34
 msgid "Viewer Joins Stream"
-msgstr "Néző csatlakozik a streamben"
+msgstr "Néző Csatlakozik a Streamhez"
 
 #: src/utils/SoundLabels.tsx:35
 msgid "Viewer Leaves Stream"
-msgstr "Néző elhagyja a streamben"
+msgstr "Néző Elhagyja a Streamet"
 
 #: src/components/pages/report/ReportStepDetails.tsx:96
 msgid "Violation Category"
-msgstr "Szabálysértési kategória"
+msgstr "Szabálysértési Kategória"
 
 #: src/components/pages/report/OptionDescriptors.tsx:45
 #: src/constants/IARConstants.tsx:42
 msgid "Violent or Graphic Content"
-msgstr "Erőszakos vagy grafikus tartalom"
+msgstr "Erőszakos vagy Grafikus Tartalom"
 
 #: src/utils/modals/guild_tabs/GuildAuditLogTabUtils.tsx:280
 msgid "VIP voice"
@@ -24007,19 +24007,19 @@ msgstr "láthatóság"
 #: src/components/modals/components/plutonium/SubscriptionCard.tsx:121
 #: src/utils/modals/guild_tabs/GuildAuditLogTabUtils.tsx:283
 msgid "Visionary"
-msgstr "Visionary"
+msgstr "Látomás"
 
 #: src/components/modals/tabs/developer_options_tab/PremiumScenarioOptions.tsx:66
 msgid "Visionary (Lifetime #42)"
-msgstr "Visionary (Lifetime #42)"
+msgstr "Látomás (Örök #42)"
 
 #: src/utils/GiftUtils.tsx:48
 msgid "Visionary (Lifetime Plutonium)"
-msgstr "Visionary (Lifetime Plutonium)"
+msgstr "Látomás (Örök Plutónium)"
 
 #: src/components/modals/tabs/developer_options_tab/NagbarControls.tsx:172
 msgid "Visionary 2FA Nagbar"
-msgstr "Visionary 2FA Figyelmeztetés"
+msgstr "Látomás 2FA Figyelmeztetés"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:137
 msgid "Visionary Badge Override"
@@ -24036,7 +24036,7 @@ msgstr "Látomás ID Szám"
 
 #: src/components/modals/ExternalLinkWarningModal.tsx:111
 msgid "Visit Site"
-msgstr "Webhely meglátogatása"
+msgstr "Webhely Meglátogatása"
 
 #: src/components/modals/tabs/accessibility_tab/Inline.tsx:33
 #: src/components/modals/tabs/AccessibilityTab.tsx:201
@@ -24064,7 +24064,7 @@ msgstr "Hang"
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:143
 #: src/components/voice/VoiceSettingsMenus.tsx:563
 msgid "Voice & Video Settings"
-msgstr "Hang- és videóbeállítások"
+msgstr "Hang- és Videóbeállítások"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:394
 msgid "voice activation"
@@ -24118,7 +24118,7 @@ msgstr "Hangcsatorna"
 
 #: src/components/alerts/VoiceChannelFullModal.tsx:29
 msgid "Voice Channel Full"
-msgstr "Hangcsatorna tele"
+msgstr "Hangcsatorna Tele"
 
 #: src/components/modals/tabs/appearance_tab/InterfaceTab.tsx:143
 msgid "Voice channel join behavior"
@@ -24138,19 +24138,19 @@ msgstr "Hangcsatlakoztatva"
 #: src/components/voice/VoiceConnectionStatus.tsx:144
 #: src/components/voice/VoiceConnectionStatus.tsx:908
 msgid "Voice Connection"
-msgstr "Hangkód"
+msgstr "Hang Csatlakozás"
 
 #: src/components/alerts/VoiceConnectionConfirmModal.tsx:45
 msgid "Voice Connection Confirmation"
-msgstr "Hangkapcsolat megerősítése"
+msgstr "Hangkapcsolat Megerősítése"
 
 #: src/utils/SoundLabels.tsx:29
 msgid "Voice Deafen"
-msgstr "Hang elnémítása"
+msgstr "Hang Elnémítása"
 
 #: src/utils/SoundLabels.tsx:36
 msgid "Voice Disconnected"
-msgstr "Hangkapcsolat bontva"
+msgstr "Hangkapcsolat Bontva"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:189
 msgid "voice join"
@@ -24173,7 +24173,7 @@ msgstr "Hangüzenet lejátszó"
 
 #: src/utils/SoundLabels.tsx:27
 msgid "Voice Mute"
-msgstr "Hang némítása"
+msgstr "Hang Némítása"
 
 #: src/components/modals/channel_tabs/ChannelOverviewTab.tsx:640
 msgid "Voice Quality"
@@ -24197,11 +24197,11 @@ msgstr "Hangbeállítások"
 
 #: src/utils/SoundLabels.tsx:30
 msgid "Voice Undeafen"
-msgstr "Hang elnémításának feloldása"
+msgstr "Hang Elnémításának Feloldása"
 
 #: src/utils/SoundLabels.tsx:28
 msgid "Voice Unmute"
-msgstr "Hang némításának feloldása"
+msgstr "Hang Némításának Feloldása"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:389
 msgid "volume"
@@ -24220,7 +24220,7 @@ msgstr "Hangerőszabályzás"
 
 #: src/components/modals/AddGuildModal.tsx:154
 msgid "Volunteer Heroes"
-msgstr "Önkéntes hősök"
+msgstr "Önkéntes Hősök"
 
 #: src/components/modals/tabs/appearance_tab/MessagesTab.tsx:93
 msgid "Waiting for you to..."
@@ -24249,7 +24249,7 @@ msgstr "Nézés"
 #: src/components/voice/VoiceParticipantTile.tsx:1334
 #: src/components/voice/VoiceParticipantTile.tsx:1383
 msgid "Watch Stream"
-msgstr "Stream nézése"
+msgstr "Stream Nézése"
 
 #: src/components/profile/VoiceActivityCard.tsx:224
 msgid "Watching"
@@ -24258,7 +24258,7 @@ msgstr "Figyelés alatt"
 #: src/components/voice/StreamWatchHoverCard.tsx:91
 #: src/components/voice/StreamWatchHoverPopout.tsx:168
 msgid "Watching Stream"
-msgstr "Stream nézése"
+msgstr "Streamet Nézi"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:581
 msgid "wav"
@@ -24459,11 +24459,11 @@ msgstr "Webhook létrehozva"
 
 #: src/constants/AuditLogConstants.tsx:160
 msgid "Webhook Created"
-msgstr "Webhook létrehozva"
+msgstr "Webhook Létrehozva"
 
 #: src/constants/AuditLogConstants.tsx:170
 msgid "Webhook Deleted"
-msgstr "Webhook törölve"
+msgstr "Webhook Törölve"
 
 #: src/components/webhooks/WebhookListItem.tsx:240
 msgid "Webhook name"
@@ -24490,7 +24490,7 @@ msgstr "Webhookok frissítve"
 
 #: src/components/modals/AddGuildModal.tsx:160
 msgid "Weekend Warriors"
-msgstr "Weekend Warriors"
+msgstr "Hétvégi Harcosok"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/SystemWelcomeSection.tsx:59
 msgid "Welcome and system messages will appear here."
@@ -24503,7 +24503,7 @@ msgstr "Üdv újra"
 #. placeholder {0}: channel.name ?? ''
 #: src/components/channel/ChannelWelcomeSection.tsx:57
 msgid "Welcome to #{0}"
-msgstr "Üdv a(z) #{0} csatornán"
+msgstr "Üdvözöl a(z) #{0}!"
 
 #: src/components/favorites/FavoritesWelcomeSection.tsx:49
 msgid "Welcome to Favorites"
@@ -24771,7 +24771,7 @@ msgstr "Tegnap"
 #: src/lib/markdown/utils/DateFormatter.tsx:48
 #: src/utils/DateUtils.tsx:67
 msgid "Yesterday at {timeString}"
-msgstr "Tegnap {timeString}"
+msgstr "Tegnap {timeString} kor"
 
 #: src/components/channel/direct_message/DMList.tsx:888
 #: src/components/layout/MobileBottomNav.tsx:128
