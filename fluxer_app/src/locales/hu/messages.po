@@ -49,7 +49,7 @@ msgstr "-link:"
 
 #: src/utils/SearchUtils.tsx:200
 msgid "-mentions:"
-msgstr "-említés:"
+msgstr "-említések:"
 
 #: src/components/channel/embeds/attachments/TextualAttachmentPreview.tsx:164
 msgid "... ({remainingLineCount} line left)"
@@ -99,7 +99,7 @@ msgstr "{0} (kiválasztva)"
 #. placeholder {0}: subscriptions.length
 #: src/components/modals/tabs/notifications_tab/Notifications.tsx:77
 msgid "{0} active subscription(s)"
-msgstr "{0} aktív előfizetés"
+msgstr "{0} aktív előfizetés(ek)"
 
 #. placeholder {0}: relative.dayLabel
 #. placeholder {1}: relative.timeString
@@ -126,7 +126,7 @@ msgstr "{0} találat"
 #: src/components/channel/direct_message/DMList.tsx:1006
 #: src/components/channel/direct_message/DMList.tsx:1096
 msgid "{0} Members"
-msgstr "{0} tag"
+msgstr "{0} Tagok"
 
 #. placeholder {0}: currentIndex + 1
 #: src/components/modals/MediaModal.tsx:1117
@@ -136,12 +136,12 @@ msgstr "{0} a(z) {totalAttachments} közül"
 #. placeholder {0}: passkeys.length
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:288
 msgid "{0} passkey registered (max 10)"
-msgstr "{0} passkey regisztrálva (max 10)"
+msgstr "{0} biztonsági kulcs regisztrálva (max 10)"
 
 #. placeholder {0}: passkeys.length
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:289
 msgid "{0} passkeys registered (max 10)"
-msgstr "{0} passkey regisztrálva (max 10)"
+msgstr "{0} biztonsági kulcsok regisztrálva (max 10)"
 
 #. placeholder {0}: reaction.count
 #: src/components/channel/MessageReactions.tsx:132
@@ -153,7 +153,7 @@ msgstr "{0} reakció"
 #: src/components/channel/MessageReactions.tsx:132
 #: src/components/shared/MessageReactionsContent.tsx:53
 msgid "{0} reactions"
-msgstr "{0} reakció"
+msgstr "{0} reakciók"
 
 #. placeholder {0}: selectedReaction.count
 #: src/components/channel/MessageReactionsSheet.tsx:154
@@ -163,7 +163,7 @@ msgstr "{0} reaktor"
 #. placeholder {0}: selectedReaction.count
 #: src/components/channel/MessageReactionsSheet.tsx:154
 msgid "{0} reactors"
-msgstr "{0} reaktor"
+msgstr "{0} reaktorok"
 
 #. placeholder {0}: formatNumber(remainingSlots, locale)
 #: src/components/modals/components/PricingCard.tsx:99
@@ -179,7 +179,7 @@ msgstr "{0} Eredmény"
 #: src/components/bottomsheets/ChannelSearchBottomSheet.tsx:406
 #: src/components/channel/ChannelSearchResults.tsx:271
 msgid "{0} Results"
-msgstr "{0} találat"
+msgstr "{0} Találat"
 
 #. placeholder {0}: Math.floor(v / 1000)
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:143
@@ -199,12 +199,12 @@ msgstr "{0} barátkérelmet küldött neked"
 #. placeholder {0}: hasFilters.length
 #: src/components/bottomsheets/ChannelSearchBottomSheet.tsx:239
 msgid "{0} types"
-msgstr "{0} típus"
+msgstr "{0} típusok"
 
 #. placeholder {0}: fromUserIds.length
 #: src/components/bottomsheets/ChannelSearchBottomSheet.tsx:233
 msgid "{0} users"
-msgstr "{0} felhasználó"
+msgstr "{0} felhasználók"
 
 #. placeholder {0}: viewerUsers.length
 #: src/components/voice/VoiceParticipantTile.tsx:1445
@@ -218,11 +218,11 @@ msgstr "{0}/{totalAttachments}"
 
 #: src/components/channel/TypingUsers.tsx:65
 msgid "{a} and {b} are typing..."
-msgstr "{a} és {b} ír..."
+msgstr "{a} és {b} géppen géppel..."
 
 #: src/components/channel/TypingUsers.tsx:60
 msgid "{a} is typing..."
-msgstr "{a} ír..."
+msgstr "{a} géppen géppel..."
 
 #: src/components/channel/TypingUsers.tsx:73
 msgid "{a}, {b} and {c} are typing..."
@@ -276,7 +276,7 @@ msgstr "{actor} létrehozta a meghívót: {namedTarget}{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:633
 msgid "{actor} created the role {namedTarget}."
-msgstr "{actor} létrehozta a szerepkört: {namedTarget}."
+msgstr "{actor} létrehozta a rangot: {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:674
 msgid "{actor} created the webhook {namedTarget}."
@@ -292,17 +292,17 @@ msgstr "{actor} törölte a {0} üzenetet{1}."
 #. placeholder {1}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:744
 msgid "{actor} deleted {0} messages{1}."
-msgstr "{actor} törölt {0} üzenetet{1}."
+msgstr "{actor} törölt {0} üzenetet itt: {1}."
 
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:731
 msgid "{actor} deleted a message{0}."
-msgstr "{actor} törölt egy üzenetet{0}."
+msgstr "{actor} törölt egy üzenetet itt: {0}."
 
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:750
 msgid "{actor} deleted multiple messages{0}."
-msgstr "{actor} törölt több üzenetet{0}."
+msgstr "{actor} törölt több üzenetet itt: {0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:528
 msgid "{actor} deleted the channel {namedTarget}."
@@ -319,7 +319,7 @@ msgstr "{actor} törölte a meghívót: {namedTarget}{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:645
 msgid "{actor} deleted the role {namedTarget}."
-msgstr "{actor} törölte a szerepkört: {namedTarget}."
+msgstr "{actor} törölte a rangot: {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:724
 msgid "{actor} deleted the sticker {namedTarget}."
@@ -347,26 +347,26 @@ msgstr "{actor} áthelyezte a következőt: {targetMember} egy másik hangcsator
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:770
 msgid "{actor} performed an audit action on {targetEntity}."
-msgstr "{actor} naplózási műveletet hajtott végre a következőn: {targetEntity}."
+msgstr "{actor} logolási műveletet hajtott végre a következőn: {targetEntity}."
 
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:757
 msgid "{actor} pinned a message{0}."
-msgstr "{actor} rögzített egy üzenetet{0}."
+msgstr "{actor} rögzített egy üzenetet itt: {0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:600
 msgid "{actor} pruned inactive members."
-msgstr "{actor} megtisztította az inaktív tagokat."
+msgstr "{actor} ritkitotta az inaktív tagokat."
 
 #. placeholder {0}: renderValueInline(pruneDays, guildId, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:591
 msgid "{actor} pruned members inactive for {0} day."
-msgstr "{actor} eltávolította a {0} napja inaktív tagokat."
+msgstr "{actor} ritkitotta a(z) {0} napja inaktív tagokat."
 
 #. placeholder {0}: renderValueInline(pruneDays, guildId, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:595
 msgid "{actor} pruned members inactive for {0} days."
-msgstr "{actor} megtisztította a {0} napja inaktív tagokat."
+msgstr "{actor} ritkitotta a(z) {0} napja inaktív tagokat."
 
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:549
@@ -380,7 +380,7 @@ msgstr "{actor} feloldotta a kitiltást a következőtől: {targetMember}."
 #. placeholder {0}: channelNode ? <> in {channelNode}</> : null
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:763
 msgid "{actor} unpinned a message{0}."
-msgstr "{actor} eltávolította az üzenet rögzítését{0}."
+msgstr "{actor} eltávolította az üzenet rögzítését itt: {0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:576
 msgid "{actor} updated {targetMember}."
@@ -393,7 +393,7 @@ msgstr "{actor} frissítette a csatorna jogosultságokat a következőhöz: {tar
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:582
 msgid "{actor} updated roles for {targetMember}."
-msgstr "{actor} frissítette a szerepköröket a következőhöz: {targetMember}."
+msgstr "{actor} frissítette a rangokat a következőhöz: {targetMember}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:522
 msgid "{actor} updated the channel {namedTarget}."
@@ -414,7 +414,7 @@ msgstr "{actor} frissítette a meghívót: {namedTarget}{0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:639
 msgid "{actor} updated the role {namedTarget}."
-msgstr "{actor} frissítette a szerepkört: {namedTarget}."
+msgstr "{actor} frissítette a rangot: {namedTarget}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:718
 msgid "{actor} updated the sticker {namedTarget}."
@@ -456,7 +456,7 @@ msgstr "{clientLabel} csatlakozni szeretne"
 #: src/components/channel/EmojiPicker.tsx:174
 #: src/components/channel/MobileEmojiPicker.tsx:178
 msgid "{communityCount} communities"
-msgstr "{communityCount} közösség"
+msgstr "{communityCount} közösségek"
 
 #: src/components/channel/EmojiPicker.tsx:174
 #: src/components/channel/MobileEmojiPicker.tsx:178
@@ -473,7 +473,7 @@ msgstr "{count} emoji"
 
 #: src/components/modals/EmojiUploadModal.tsx:33
 msgid "{count} emojis"
-msgstr "{count} emoji"
+msgstr "{count} emojik"
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:125
 msgid "{count} item"
@@ -481,7 +481,7 @@ msgstr "{count} elem"
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:125
 msgid "{count} items"
-msgstr "{count} elem"
+msgstr "{count} elemek"
 
 #. placeholder {0}: maxCount === Number.POSITIVE_INFINITY ? '∞' : maxCount
 #: src/components/guild/UploadSlotInfo.tsx:47
@@ -490,7 +490,7 @@ msgstr "{currentCount} / {0}"
 
 #: src/components/modals/GroupInvitesBottomSheet.tsx:113
 msgid "{days} days"
-msgstr "{days} nap"
+msgstr "{days} napok"
 
 #: src/components/layout/guild_list/GuildListDMItem.tsx:199
 msgid "{displayName} (selected)"
@@ -499,12 +499,12 @@ msgstr "{displayName} (kiválasztva)"
 #: src/utils/GiftUtils.tsx:52
 #: src/utils/GiftUtils.tsx:63
 msgid "{durationMonths} Month of Plutonium"
-msgstr "{durationMonths} hónap a Plutóniumból"
+msgstr "{durationMonths} Hónap a Plutóniumból"
 
 #: src/utils/GiftUtils.tsx:52
 #: src/utils/GiftUtils.tsx:63
 msgid "{durationMonths} Months of Plutonium"
-msgstr "{durationMonths} hónap a Plutóniumból"
+msgstr "{durationMonths} Hónapok a Plutóniumból"
 
 #: src/components/uikit/BaseAvatar.tsx:255
 msgid "{effectiveStatusLabel} status"
@@ -524,12 +524,12 @@ msgstr "{emojiName} reakció: {0} és {1}"
 #. placeholder {0}: users[0]
 #: src/utils/ReactionUtils.tsx:60
 msgid "{emojiName} reacted by {0} and {othersCount} other"
-msgstr "{emojiName} reagált {0}-ra és {othersCount} másra"
+msgstr "{emojiName} reagált {0}-ra/re és {othersCount} másra"
 
 #. placeholder {0}: users[0]
 #: src/utils/ReactionUtils.tsx:61
 msgid "{emojiName} reacted by {0} and {othersCount} others"
-msgstr "{emojiName} reagált {0}-ra és {othersCount} másra"
+msgstr "{emojiName} reagált {0}-ra/re és {othersCount} másokra"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
@@ -542,27 +542,27 @@ msgstr "{emojiName} reakció: {0}, {1} és {2}"
 #. placeholder {1}: users[1]
 #: src/utils/ReactionUtils.tsx:69
 msgid "{emojiName} reacted by {0}, {1} and {othersCount} other"
-msgstr "{emojiName} reagált {0}-ra, {1}-re és {othersCount} másra"
+msgstr "{emojiName} reagált {0}-ra/re, {1}-ra/re és {othersCount} másra"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
 #: src/utils/ReactionUtils.tsx:70
 msgid "{emojiName} reacted by {0}, {1} and {othersCount} others"
-msgstr "{emojiName} reagált {0}-ra, {1}-re és {othersCount} másra"
+msgstr "{emojiName} reagált {0}-ra/re, {1}-ra/re és {othersCount} másokra"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
 #. placeholder {2}: users[2]
 #: src/utils/ReactionUtils.tsx:78
 msgid "{emojiName} reacted by {0}, {1}, {2} and {othersCount} other"
-msgstr "{emojiName} reagált {0}-ra, {1}-re, {2}-re és {othersCount} másra"
+msgstr "{emojiName} reagált {0}-ra/re, {1}-ra/re, {2}-ra/re és {othersCount} másra"
 
 #. placeholder {0}: users[0]
 #. placeholder {1}: users[1]
 #. placeholder {2}: users[2]
 #: src/utils/ReactionUtils.tsx:79
 msgid "{emojiName} reacted by {0}, {1}, {2} and {othersCount} others"
-msgstr "{emojiName} reagált {0}-ra, {1}-re, {2}-re és {othersCount} másra"
+msgstr "{emojiName} reagált {0}-ra/re, {1}-ra/re, {2}-ra/re és {othersCount} másokra"
 
 #: src/utils/ReactionUtils.tsx:85
 msgid "{emojiName} reacted by {othersCount} other"
@@ -621,7 +621,7 @@ msgstr "{lockedEmojiCount} egyedi emoji"
 #: src/components/channel/EmojiPicker.tsx:173
 #: src/components/channel/MobileEmojiPicker.tsx:177
 msgid "{lockedEmojiCount} custom emojis"
-msgstr "{lockedEmojiCount} egyedi emoji"
+msgstr "{lockedEmojiCount} egyedi emojik"
 
 #: src/components/channel/MobileStickersPicker.tsx:140
 #: src/components/channel/StickersPicker.tsx:139
@@ -631,7 +631,7 @@ msgstr "{lockedStickerCount} matrica"
 #: src/components/channel/MobileStickersPicker.tsx:140
 #: src/components/channel/StickersPicker.tsx:139
 msgid "{lockedStickerCount} stickers"
-msgstr "{lockedStickerCount} matrica"
+msgstr "{lockedStickerCount} matricák"
 
 #: src/components/alerts/MaxBookmarksModal.tsx:41
 msgid "{maxBookmarks} bookmark"
@@ -639,7 +639,7 @@ msgstr "{maxBookmarks} könyvjelző"
 
 #: src/components/alerts/MaxBookmarksModal.tsx:41
 msgid "{maxBookmarks} bookmarks"
-msgstr "{maxBookmarks} könyvjelző"
+msgstr "{maxBookmarks} könyvjelzők"
 
 #: src/components/alerts/MaxFavoriteMemesModal.tsx:39
 msgid "{maxFavoriteMemes} saved media item"
@@ -654,14 +654,14 @@ msgstr "{maxFavoriteMemes} mentett médiaelemek"
 #: src/components/modals/discovery/DiscoveryGuildCard.tsx:89
 #: src/components/modals/UserProfileModal.tsx:839
 msgid "{memberCount} Member"
-msgstr "{memberCount} tag"
+msgstr "{memberCount} Tag"
 
 #: src/components/bottomsheets/GuildHeaderBottomSheet.tsx:77
 #: src/components/channel/ChannelSourcePreview.tsx:206
 #: src/components/modals/discovery/DiscoveryGuildCard.tsx:89
 #: src/components/modals/UserProfileModal.tsx:839
 msgid "{memberCount} Members"
-msgstr "{memberCount} tag"
+msgstr "{memberCount} Tagok"
 
 #: src/components/alerts/RateLimitedConfirmModal.tsx:45
 #: src/components/alerts/SlowmodeRateLimitedModal.tsx:41
@@ -671,7 +671,7 @@ msgstr "{minutes} perc"
 #: src/components/alerts/RateLimitedConfirmModal.tsx:45
 #: src/components/alerts/SlowmodeRateLimitedModal.tsx:41
 msgid "{minutes} minutes"
-msgstr "{minutes} perc"
+msgstr "{minutes} percek"
 
 #: src/components/alerts/SlowmodeRateLimitedModal.tsx:56
 msgid "{minutes} minutes and {remainingSeconds} seconds"
@@ -704,7 +704,7 @@ msgstr "{onlineCount} Online"
 
 #: src/components/modals/tabs/LimitsConfigTab.tsx:91
 msgid "{overrideCount} active"
-msgstr "{overrideCount} active"
+msgstr "{overrideCount} aktív"
 
 #: src/components/voice/CompactVoiceCallView.tsx:128
 msgid "{participantCount} in call"
@@ -736,11 +736,11 @@ msgstr "{premiumLimit} mentett médiaelem"
 
 #: src/components/bottomsheets/GuildHeaderBottomSheet.tsx:72
 msgid "{presenceCount} Online"
-msgstr "{presenceCount} online"
+msgstr "{presenceCount} Online"
 
 #: src/components/uikit/character_counter/CharacterCounter.tsx:53
 msgid "{remaining} characters left"
-msgstr "maradt {remaining} karakter"
+msgstr "Maradt {remaining} karakter"
 
 #: src/components/uikit/character_counter/CharacterCounter.tsx:50
 msgid "{remaining} characters left. Get Plutonium to write up to {premiumMaxLength} characters."
@@ -750,13 +750,13 @@ msgstr "maradt {remaining} karakter. Szerezd meg a Plutoniumot, hogy akár {prem
 #: src/components/channel/InviteEmbed.tsx:322
 #: src/components/channel/InviteEmbed.tsx:468
 msgid "{renderedMemberCount} Member"
-msgstr "{renderedMemberCount} tag"
+msgstr "{renderedMemberCount} Tag"
 
 #: src/components/channel/InviteEmbed.tsx:207
 #: src/components/channel/InviteEmbed.tsx:322
 #: src/components/channel/InviteEmbed.tsx:468
 msgid "{renderedMemberCount} Members"
-msgstr "{renderedMemberCount} tag"
+msgstr "{renderedMemberCount} Tagok"
 
 #: src/components/channel/InviteEmbed.tsx:317
 #: src/components/channel/InviteEmbed.tsx:463
