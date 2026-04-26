@@ -1940,7 +1940,7 @@ msgstr "Átirányítás hozzáadása"
 
 #: src/components/guild/RoleManagement.tsx:351
 msgid "Add Role"
-msgstr "Szerepkör hozzáadása"
+msgstr "Rang hozzáadása"
 
 #: src/utils/friends/FriendsListUtils.tsx:169
 msgid "Add some friends to see them here."
@@ -2008,7 +2008,7 @@ msgstr "Hozzáadva: {0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:538
 msgid "Added roles."
-msgstr "Szerepkörök hozzáadva."
+msgstr "Rangok hozzáadva."
 
 #: src/actions/SavedMessageActionCreators.tsx:59
 msgid "Added to bookmarks"
@@ -19202,7 +19202,7 @@ msgstr "Állítsd a NSFW szintet erre: {0}."
 
 #: src/components/modals/tabs/account_security_tab/AccountTab.tsx:141
 msgid "Set Password"
-msgstr "Jelszó beállítása"
+msgstr "Jelszó Beállítása"
 
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:457
@@ -19216,11 +19216,11 @@ msgstr "Nyomva tartva beszél billentyű beállítása"
 #. placeholder {0}: renderInline(change.newValue, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:543
 msgid "Set reason to {0}."
-msgstr "Állítsd az okot erre: {0}."
+msgstr "Állítsd az indokot erre: {0}."
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:652
 msgid "Set role colour to <0>{hex}</0> <1/>."
-msgstr "Állítsd be a szerep színét <0>{hex}</0> <1/>."
+msgstr "Állítsd be a rang színét <0>{hex}</0> <1/>."
 
 #. placeholder {0}: renderInline(seconds, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:443
@@ -19229,7 +19229,7 @@ msgstr "Állítsd a lassított módot erre: {0} másodperc."
 
 #: src/components/modals/StatusChangeBottomSheet.tsx:239
 msgid "Set Status"
-msgstr "Állapot beállítása"
+msgstr "Állapot Beállítása"
 
 #. placeholder {0}: renderInline(change.newValue, i18n, guildId)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:269
@@ -19727,7 +19727,7 @@ msgstr "Az ajándék megjelenítése már beváltottként"
 
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:1052
 msgid "Show this role separately"
-msgstr "Ez a szerepkör külön megjelenítése"
+msgstr "Ez a rang külön megjelenítése"
 
 #: src/components/modals/tabs/appearance_tab/InterfaceTab.tsx:91
 msgid "Show typing indicator with user avatars in the channel list"
@@ -19865,11 +19865,11 @@ msgstr "méret"
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:114
 msgid "Size Selection"
-msgstr "Méret kiválasztása"
+msgstr "Méret Kiválasztása"
 
 #: src/components/modals/ImageCropModal.tsx:947
 msgid "Skip Cropping"
-msgstr "Környezet kihagyása"
+msgstr "Környezet Kihagyása"
 
 #: src/components/modals/tabs/privacy_safety_tab/ConnectionsTab.tsx:101
 msgid "Skip this step"
@@ -19897,7 +19897,7 @@ msgstr "Csúszka kevesebb jelölővel"
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:283
 msgid "Slider with Step Values"
-msgstr "Csúszka lépésértékekkel"
+msgstr "Csúszka Lépésértékekkel"
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:239
 msgid "Sliders"
@@ -19913,23 +19913,23 @@ msgstr "Szlovénia"
 
 #: src/components/modals/tabs/developer_options_tab/DeveloperOptionsToggleGroups.tsx:66
 msgid "Slow Attachment Upload"
-msgstr "Lassú csatolmányfeltöltés"
+msgstr "Lassú Csatolmányfeltöltés"
 
 #: src/components/modals/tabs/developer_options_tab/DeveloperOptionsToggleGroups.tsx:65
 msgid "Slow Message Edit"
-msgstr "Lassú üzenetszerkesztés"
+msgstr "Lassú Üzenetszerkesztés"
 
 #: src/components/modals/tabs/developer_options_tab/DeveloperOptionsToggleGroups.tsx:63
 msgid "Slow Message Load"
-msgstr "Lassú üzenetbetöltés"
+msgstr "Lassú Üzenetbetöltés"
 
 #: src/components/modals/tabs/developer_options_tab/DeveloperOptionsToggleGroups.tsx:64
 msgid "Slow Message Send"
-msgstr "Lassú üzenetküldés"
+msgstr "Lassú Üzenetküldés"
 
 #: src/components/modals/tabs/developer_options_tab/DeveloperOptionsToggleGroups.tsx:67
 msgid "Slow Profile Load"
-msgstr "Lassú profilbetöltés"
+msgstr "Lassú Profilbetöltés"
 
 #: src/components/modals/tabs/AccessibilityTab.tsx:181
 msgid "Slower"
@@ -19939,19 +19939,19 @@ msgstr "Lassabb"
 #: src/components/modals/channel_tabs/ChannelOverviewTab.tsx:616
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:117
 msgid "Slowmode"
-msgstr "Lassú mód"
+msgstr "Lassított Mód"
 
 #: src/components/alerts/SlowmodeRateLimitedModal.tsx:61
 msgid "Slowmode Active"
-msgstr "Lassú mód aktív"
+msgstr "Lassított Mód Aktív"
 
 #: src/components/channel/SlowmodeIndicator.tsx:51
 msgid "Slowmode is enabled, but you are immune."
-msgstr "A lassú mód engedélyezve van, de te immunis vagy."
+msgstr "A lassított mód engedélyezve van, de te immunis vagy."
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:128
 msgid "Slowmode Time Remaining (ms)"
-msgstr "Lassú mód hátralévő ideje (ms)"
+msgstr "Lassított Mód Hátralévő Ideje (ms)"
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:120
 msgid "Small"
@@ -19959,7 +19959,7 @@ msgstr "Kicsi"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:115
 msgid "Small Button"
-msgstr "Kis gomb"
+msgstr "Kis Gomb"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:113
 msgid "Small button clicked!"
@@ -19967,7 +19967,7 @@ msgstr "Kis gombra kattintottak!"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:129
 msgid "Small Secondary"
-msgstr "Kis másodlagos"
+msgstr "Kis Másodlagos"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:127
 msgid "Small secondary clicked!"
@@ -19975,11 +19975,11 @@ msgstr "Kis másodlagosra kattintottak!"
 
 #: src/components/modals/tabs/component_gallery_tab/IndicatorsTab.tsx:148
 msgid "Small Size"
-msgstr "Kis méret"
+msgstr "Kis Méret"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:262
 msgid "Small Submitting"
-msgstr "Kis beküldés"
+msgstr "Kis Beküldés"
 
 #: src/components/modals/tabs/chat_settings_tab/MediaTab.tsx:113
 msgid "Smaller media size"
@@ -19992,7 +19992,7 @@ msgstr "sms"
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:412
 msgid "SMS Backup"
-msgstr "SMS biztonsági mentés"
+msgstr "SMS Biztonsági Mentés"
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:432
 msgid "SMS backup is disabled for partners"
@@ -20005,7 +20005,7 @@ msgstr "SMS kód"
 #: src/components/auth/MfaScreen.tsx:74
 #: src/components/modals/SudoVerificationModal.tsx:272
 msgid "SMS Code"
-msgstr "SMS kód"
+msgstr "SMS Kód"
 
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:406
 msgid "SMS Two-Factor Authentication"
@@ -20135,7 +20135,7 @@ msgstr "Hangok"
 
 #: src/components/modals/utils/SettingsConstants.tsx:202
 msgid "Sounds & Alerts"
-msgstr "Hangok és értesítések"
+msgstr "Hangok és Értesítések"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:157
 msgid "space between"
@@ -20160,17 +20160,17 @@ msgstr "Spanyolország"
 #: src/components/pages/report/OptionDescriptors.tsx:61
 #: src/constants/IARConstants.tsx:119
 msgid "Spam Account"
-msgstr "Spam fiók"
+msgstr "Spam Fiók"
 
 #: src/components/pages/report/OptionDescriptors.tsx:46
 #: src/constants/IARConstants.tsx:47
 msgid "Spam or Scam"
-msgstr "Spam vagy átverés"
+msgstr "Spam vagy Átverés"
 
 #: src/components/pages/report/OptionDescriptors.tsx:76
 #: src/constants/IARConstants.tsx:185
 msgid "Spam or Scam Community"
-msgstr "Spam vagy átverés közösség"
+msgstr "Spam vagy Átverés Közösség"
 
 #: src/utils/LocaleUtils.tsx:47
 msgid "Spanish (Latin America)"
@@ -20193,7 +20193,7 @@ msgstr "Olvasd fel az összes üzenetet"
 #: src/components/uikit/context_menu/items/MessageMenuItems.tsx:346
 #: src/stores/KeybindStore.tsx:370
 msgid "Speak Message"
-msgstr "Üzenet felolvasása"
+msgstr "Üzenet Felolvasása"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:603
 msgid "speak messages"
@@ -20220,7 +20220,7 @@ msgstr "Hangszóró {shortDeviceId}"
 
 #: src/components/modals/tabs/component_gallery_tab/MarkdownTab.tsx:156
 msgid "Special Features"
-msgstr "Különleges funkciók"
+msgstr "Különleges Funkciók"
 
 #: src/utils/SearchUtils.tsx:240
 #: src/utils/SearchUtils.tsx:247
@@ -20281,11 +20281,11 @@ msgstr "Spoiler"
 
 #: src/components/channel/ChannelAttachmentArea.tsx:608
 msgid "Spoiler Attachment"
-msgstr "Spoiler melléklet"
+msgstr "Spoiler Csatolmány"
 
 #: src/components/modals/tabs/chat_settings_tab/DisplayTab.tsx:105
 msgid "Spoiler Content"
-msgstr "Spoiler tartalom"
+msgstr "Spoiler Tartalom"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:300
 msgid "spoilers"
@@ -20301,11 +20301,11 @@ msgstr "SQL"
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:181
 msgid "Square Checkboxes"
-msgstr "Négyzetes jelölőnégyzetek"
+msgstr "Négyzetes Jelölőnégyzetek"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:209
 msgid "Square Icon Buttons"
-msgstr "Négyzetes ikongombok"
+msgstr "Négyzetes Ikongombok"
 
 #: src/components/auth/AuthLoginLayout.tsx:284
 msgid "SSO is required to access this workspace."
@@ -20313,7 +20313,7 @@ msgstr "Az SSO szükséges a munkaterület eléréséhez."
 
 #: src/components/pages/SsoCallbackPage.tsx:111
 msgid "SSO Sign-in Failed"
-msgstr "SSO bejelentkezés sikertelen"
+msgstr "SSO Bejelentkezés Sikertelen"
 
 #: src/components/pages/SsoCallbackPage.tsx:65
 msgid "SSO sign-in timed out. Please try again."
@@ -20321,15 +20321,15 @@ msgstr "SSO bejelentkezés időtúllépés. Kérjük, próbálja újra."
 
 #: src/components/modals/utils/SettingsConstants.tsx:104
 msgid "Staff-Only"
-msgstr "Csak személyzet"
+msgstr "Csak Személyzet"
 
 #: src/components/modals/tabs/appearance_tab/HdrTab.tsx:45
 msgid "Standard Range"
-msgstr "Szabványos tartomány"
+msgstr "Szabványos Tartomány"
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:245
 msgid "Standard Slider with Markers"
-msgstr "Szabványos csúszka jelölőkkel"
+msgstr "Szabványos Csúszka Jelölőkkel"
 
 #: src/components/modals/GuildFolderSettingsModal.tsx:92
 msgid "Star"
@@ -20370,7 +20370,7 @@ msgstr "Kezd el szerkeszteni a fókuszált üzenetet"
 
 #: src/components/modals/tabs/components/MicTestSection.tsx:95
 msgid "Start Mic Test"
-msgstr "Mikrofonteszt indítása"
+msgstr "Mikrofonteszt Indítása"
 
 #: src/components/pages/report/ReportStepDetails.tsx:252
 #: src/components/pages/report/ReportStepEmail.tsx:103
@@ -20384,13 +20384,13 @@ msgstr "Kezdj kereséseket a <0><1>@</1></0> <2><3>#</3></2> <4><5>!</5></4> <6>
 
 #: src/components/modals/ScreenShareSettingsModal.tsx:169
 msgid "Start Sharing"
-msgstr "Megosztás indítása"
+msgstr "Megosztás Indítása"
 
 #: src/components/channel/channel_header_components/CallButtons.tsx:181
 #: src/components/modals/UserProfileModal.tsx:1165
 #: src/components/uikit/context_menu/items/CallMenuItems.tsx:99
 msgid "Start Video Call"
-msgstr "Videóhívás indítása"
+msgstr "Videóhívás Indítása"
 
 #: src/components/channel/channel_header_components/CallButtons.tsx:98
 #: src/components/channel/direct_message/DMList.tsx:662
@@ -20399,7 +20399,7 @@ msgstr "Videóhívás indítása"
 #: src/components/uikit/context_menu/items/CallMenuItems.tsx:68
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:431
 msgid "Start Voice Call"
-msgstr "Hanghívás indítása"
+msgstr "Hanghívás Indítása"
 
 #. placeholder {0}: staticEmojis.length
 #. placeholder {1}: maxStaticEmojis === Number.POSITIVE_INFINITY ? '∞' : maxStaticEmojis
@@ -20478,11 +20478,11 @@ msgstr "Matrica animációk"
 
 #: src/constants/AuditLogConstants.tsx:190
 msgid "Sticker Created"
-msgstr "Matrica létrehozva"
+msgstr "Matrica Létrehozva"
 
 #: src/constants/AuditLogConstants.tsx:200
 msgid "Sticker Deleted"
-msgstr "Matrica törölve"
+msgstr "Matrica Törölve"
 
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:154
 msgid "Sticker density"
@@ -20501,7 +20501,7 @@ msgstr "Elérte a matrica csomag létrehozási limitet"
 
 #: src/components/modals/PackInviteModal.tsx:78
 msgid "Sticker Pack Invite"
-msgstr "Matrica csomag meghívó"
+msgstr "Matrica Csomag Meghívó"
 
 #: src/actions/InviteActionCreators.tsx:277
 msgid "Sticker pack limit reached"
@@ -20513,11 +20513,11 @@ msgstr "matrica csomagok"
 
 #: src/components/modals/guild_tabs/GuildStickersTab.tsx:177
 msgid "Sticker Slots"
-msgstr "Matrica helyek"
+msgstr "Matrica Helyek"
 
 #: src/constants/AuditLogConstants.tsx:195
 msgid "Sticker Updated"
-msgstr "Matrica frissítve"
+msgstr "Matrica Frissítve"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:285
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:277
@@ -20561,26 +20561,26 @@ msgstr "Meg akarod szüntetni a némított csatornák alapértelmezett elrejtés
 
 #: src/components/uikit/context_menu/items/CallMenuItems.tsx:140
 msgid "Stop Ringing"
-msgstr "Csengés leállítása"
+msgstr "Csengés Leállítása"
 
 #: src/components/voice/VoiceConnectionStatus.tsx:820
 #: src/components/voice/VoiceControlBar.tsx:720
 msgid "Stop Sharing"
-msgstr "Megosztás leállítása"
+msgstr "Megosztás Leállítása"
 
 #: src/components/channel/MessageActionMenu.tsx:304
 #: src/components/uikit/context_menu/items/MessageMenuItems.tsx:346
 msgid "Stop Speaking"
-msgstr "Beszéd leállítása"
+msgstr "Beszéd Leállítása"
 
 #: src/components/voice/VoiceConnectionStatus.tsx:726
 #: src/components/voice/VoiceControlBar.tsx:415
 msgid "Stop Streaming"
-msgstr "Streaming leállítása"
+msgstr "Stream Leállítása"
 
 #: src/components/modals/tabs/components/MicTestSection.tsx:95
 msgid "Stop Test"
-msgstr "Teszt leállítása"
+msgstr "Teszt Leállítása"
 
 #: src/components/modals/tabs/chat_settings_tab/LinksTab.tsx:70
 msgid "Stop trusting all links?"
@@ -20615,16 +20615,16 @@ msgstr "Stream előnézet"
 #: src/components/voice/VoiceConnectionStatus.tsx:731
 #: src/components/voice/VoiceControlBar.tsx:420
 msgid "Stream Quality"
-msgstr "Stream minőség"
+msgstr "Stream Minőség"
 
 #: src/utils/PermissionUtils.tsx:397
 #: src/utils/PermissionUtils.tsx:505
 msgid "Stream Video"
-msgstr "Videó streamelése"
+msgstr "Videó Streamelése"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:305
 msgid "Stream Volume"
-msgstr "Stream hangerő"
+msgstr "Stream Hangerő"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:420
 msgid "streaming"
@@ -20664,11 +20664,11 @@ msgstr "Továbbíts egy másik bejelentést"
 
 #: src/components/pages/report/ReportStepDetails.tsx:240
 msgid "Submit DSA Report"
-msgstr "DSA jelentés beküldése"
+msgstr "DSA Jelentés Beküldése"
 
 #: src/components/modals/IARModal.tsx:258
 msgid "Submit Report"
-msgstr "Jelentés beküldése"
+msgstr "Jelentés Beküldése"
 
 #: src/components/modals/tabs/component_gallery_tab/ButtonsTab.tsx:256
 msgid "Submitting"
@@ -20702,7 +20702,7 @@ msgstr "Sikeresen kirúgtad {0}-t a közösségből"
 #. placeholder {0}: targetUser.tag
 #: src/components/modals/RemoveTimeoutModal.tsx:50
 msgid "Successfully removed timeout from {0}"
-msgstr "Sikeresen eltávolítottad a timeout-ot {0}-tól"
+msgstr "Sikeresen eltávolítottad a felfüggesztést {0}-tól/től"
 
 #. placeholder {0}: ban.user.username
 #: src/components/modals/guild_tabs/GuildBansTab.tsx:109
@@ -20713,12 +20713,12 @@ msgstr "Sikeresen visszavontad a kitiltást {0} számára"
 #: src/components/modals/TimeoutMemberModal.tsx:127
 #: src/components/modals/TimeoutMemberSheet.tsx:67
 msgid "Successfully timed out {0}"
-msgstr "Sikeresen timeout-oltad {0}-t"
+msgstr "Sikeresen felfüggesztetted {0}-t"
 
 #. placeholder {0}: targetUser.username
 #: src/components/modals/TransferOwnershipModal.tsx:51
 msgid "Successfully transferred ownership to {0}"
-msgstr "Sikeresen átruháztad a tulajdonjogot {0}-ra"
+msgstr "Sikeresen átruháztad a tulajdonjogot {0}-ra/re"
 
 #: src/components/modals/guild_tabs/GuildModerationTab.tsx:249
 msgid "Suggested for most communities"
@@ -20743,12 +20743,12 @@ msgstr "Támogatott: JPG, PNG, GIF, WebP, MP4. Maximális méret: 10MB."
 #: src/components/modals/GuildNotificationSettingsModal.tsx:190
 #: src/components/uikit/context_menu/items/GuildMenuItems.tsx:272
 msgid "Suppress @everyone and @here"
-msgstr "@everyone és @here elnyomása"
+msgstr "@everyone és @here Elnyomása"
 
 #: src/components/modals/GuildNotificationSettingsModal.tsx:197
 #: src/components/uikit/context_menu/items/GuildMenuItems.tsx:275
 msgid "Suppress All Role @mentions"
-msgstr "Az összes szerep @megemlítés elnyomása"
+msgstr "Az Összes Rang @megemlítés Elnyomása"
 
 #: src/components/channel/embeds/Embed.tsx:1039
 #: src/components/channel/embeds/Embed.tsx:1232
@@ -20762,7 +20762,7 @@ msgstr "Beágyazások elrejtése"
 #: src/components/channel/MessageActionMenu.tsx:261
 #: src/components/uikit/context_menu/items/MessageMenuItems.tsx:186
 msgid "Suppress Embeds"
-msgstr "Beágyazások elrejtése"
+msgstr "Beágyazások Elrejtése"
 
 #: src/stores/KeybindStore.tsx:407
 msgid "Suppress or reveal embeds on the focused message"
@@ -20799,7 +20799,7 @@ msgstr "Fiók váltása"
 
 #: src/components/popouts/UserAreaPopout.tsx:518
 msgid "Switch Accounts"
-msgstr "Fiókok váltása"
+msgstr "Fiókok Váltása"
 
 #: src/stores/QuickSwitcherStore.tsx:898
 msgid "Switch between Light and Dark mode"
@@ -20811,7 +20811,7 @@ msgstr "Váltás a legutóbbi közösség és a közvetlen üzenetek között"
 
 #: src/stores/NewDeviceMonitoringStore.tsx:198
 msgid "Switch Device"
-msgstr "Eszköz váltása"
+msgstr "Eszköz Váltása"
 
 #: src/components/modals/channel_tabs/ChannelPermissionsTab.tsx:1030
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:1104
@@ -20834,7 +20834,7 @@ msgstr "Váltás erre a fiókra"
 
 #: src/components/alerts/VoiceConnectionConfirmModal.tsx:54
 msgid "Switch to This Device"
-msgstr "Váltás erre az eszközre"
+msgstr "Váltás Erre az Eszközre"
 
 #: src/components/modals/channel_tabs/ChannelPermissionsTab.tsx:1046
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:1118
@@ -20843,7 +20843,7 @@ msgstr "Váltás két oszlopra"
 
 #: src/components/uikit/context_menu/items/MoveToChannelSubmenu.tsx:126
 msgid "Switch To..."
-msgstr "Váltás ide..."
+msgstr "Váltás Ide..."
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:139
 msgid "Switches"
@@ -20921,7 +20921,7 @@ msgstr "rendszer téma"
 
 #: src/components/modals/tabs/appearance_tab/ThemeTab.tsx:332
 msgid "System Theme"
-msgstr "Rendszer téma"
+msgstr "Rendszer Téma"
 
 #: src/components/modals/tabs/appearance_tab/ThemeTab.tsx:455
 msgid "System theme automatically disables sync to track your system's preference on this device."
@@ -20968,7 +20968,7 @@ msgstr "Célzott támadások, fenyegetések vagy folyamatos zaklatás"
 
 #: src/components/modals/AddGuildModal.tsx:157
 msgid "Team Alpha"
-msgstr "Alfa csapat"
+msgstr "Alfa Csapat"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:116
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:497
@@ -20988,15 +20988,15 @@ msgstr "Ideiglenesen letiltja a fiókját. Később újra bejelentkezve újraakt
 #: src/components/auth/MockMinimalRegisterForm.tsx:121
 #: src/components/modals/components/DesktopSettingsView.tsx:215
 msgid "Terms of Service"
-msgstr "Szolgáltatási feltételek"
+msgstr "Szolgáltatási Feltételek"
 
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:240
 msgid "Test Bulk Delete (60s)"
-msgstr "Tömeges törlés tesztelése (60s)"
+msgstr "Tömeges Törlés Tesztelése (60s)"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:157
 msgid "Test Subscription State"
-msgstr "Előfizetés állapotának tesztelése"
+msgstr "Előfizetés Állapotának Tesztelése"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:301
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:620
@@ -21024,11 +21024,11 @@ msgstr "Szöveges csatorna"
 #: src/components/channel/channel_header/useChannelHeaderData.tsx:96
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:322
 msgid "Text Channel"
-msgstr "Szöveges csatorna"
+msgstr "Szöveges Csatorna"
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/TextChannelNamesSection.tsx:35
 msgid "Text Channel Names"
-msgstr "Szöveges csatornák nevei"
+msgstr "Szöveges Csatornák Nevei"
 
 #: src/stores/QuickSwitcherStore.tsx:1347
 #: src/utils/quick_switcher/QuickSwitcherModalUtils.tsx:97
@@ -21180,7 +21180,7 @@ msgstr "A megadott redirect_uri nincs regisztrálva ehhez az alkalmazáshoz."
 
 #: src/components/alerts/RoleDeleteFailedModal.tsx:35
 msgid "The role <0>\"{roleName}\"</0> could not be deleted at this time. Please try again."
-msgstr "A(z) <0>\"{roleName}\"</0> szerepkört jelenleg nem lehet törölni. Kérjük, próbáld újra."
+msgstr "A(z) <0>\"{roleName}\"</0> rangot jelenleg nem lehet törölni. Kérjük, próbáld újra."
 
 #: src/components/modals/AddGuildModal.tsx:185
 msgid "The Squad"
@@ -21257,7 +21257,7 @@ msgstr "Nincs elérhető csatorna, amelyhez meghívót lehetne létrehozni."
 #. placeholder {0}: /* * Copyright (C) 2026 Fluxer Contributors * * This file is part of Fluxer. * * Fluxer is free software: you can redistribute it and/or modify * it under the terms of the GNU Affero General Public License as published by * the Free Software Foundation, either version 3 of the License, or * (at your option) any later version. * * Fluxer is distributed in the hope that it will be useful, * but WITHOUT ANY WARRANTY; without even the implied warranty of * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the * GNU Affero General Public License for more details. * * You should have received a copy of the GNU Affero General Public License * along with Fluxer. If not, see <https://www.gnu.org/licenses/>. */ import * as ContextMenuActionCreators from '@app/actions/ContextMenuActionCreators'; import * as GuildMemberActionCreators from '@app/actions/GuildMemberActionCreators'; import * as ModalActionCreators from '@app/actions/ModalActionCreators'; import {modal} from '@app/actions/ModalActionCreators'; import styles from '@app/components/guild/RoleManagement.module.css'; import {ConfirmModal} from '@app/components/modals/ConfirmModal'; import {GuildSettingsModal} from '@app/components/modals/GuildSettingsModal'; import profileStyles from '@app/components/popouts/UserProfilePopout.module.css'; import {CheckboxItem} from '@app/components/uikit/context_menu/ContextMenu'; import itemStyles from '@app/components/uikit/context_menu/items/MenuItems.module.css'; import {MenuGroup} from '@app/components/uikit/context_menu/MenuGroup'; import {MenuItem} from '@app/components/uikit/context_menu/MenuItem'; import FocusRing from '@app/components/uikit/focus_ring/FocusRing'; import {MenuBottomSheet, type MenuGroupType} from '@app/components/uikit/menu_bottom_sheet/MenuBottomSheet'; import {Tooltip} from '@app/components/uikit/tooltip/Tooltip'; import {useRoleHierarchy} from '@app/hooks/useRoleHierarchy'; import type {GuildRoleRecord} from '@app/records/GuildRoleRecord'; import GuildMemberStore from '@app/stores/GuildMemberStore'; import GuildSettingsModalStore from '@app/stores/GuildSettingsModalStore'; import GuildStore from '@app/stores/GuildStore'; import MobileLayoutStore from '@app/stores/MobileLayoutStore'; import * as ColorUtils from '@app/utils/ColorUtils'; import {Trans, useLingui} from '@lingui/react/macro'; import {PlusIcon, XIcon} from '@phosphor-icons/react'; import {clsx} from 'clsx'; import {observer} from 'mobx-react-lite'; import type React from 'react'; import {useCallback, useMemo, useState} from 'react'; const RoleBadge: React.FC<{ role: GuildRoleRecord; canRemove: boolean; guildId: string; userId: string; }> = observer(function RoleBadge({role, canRemove, guildId, userId}) { const {t} = useLingui(); const roleColor = ColorUtils.int2rgb(role.color); const iconColor = ColorUtils.getBestContrastColor(role.color); const handleRemoveRole = () => { GuildMemberActionCreators.removeRole(guildId, userId, role.id); }; const roleIndicator = <span className={styles.roleIndicator} style={{backgroundColor: roleColor}} />; return ( <div key={role.id} className={clsx(styles.roleBadge, profileStyles.role)}> {canRemove ? ( <Tooltip text={t`Remove role`} position="top"> <FocusRing offset={-2}> <button type="button" className={styles.roleRemoveButton} onClick={handleRemoveRole}> <XIcon weight="bold" className={clsx(styles.roleRemoveIconContainer, profileStyles.roleRemoveIcon)} style={{color: iconColor}} /> {roleIndicator} </button> </FocusRing> </Tooltip> ) : ( <div className={styles.roleRemoveButtonContainer}>{roleIndicator}</div> )} <div aria-hidden={true} className={styles.roleName}> {role.name} </div> </div> ); }); export const RoleList: React.FC<{ guildId: string; userId: string; roles: Array<GuildRoleRecord>; canManage: boolean; }> = observer(function RoleList({guildId, userId, roles, canManage}) { const {canManageRole} = useRoleHierarchy(GuildStore.getGuild(guildId)); if (roles.length === 0 && !canManage) { return null; } return ( <div className={styles.roleListContainer}> {roles.map((role) => { const canRemoveRole = canManage && canManageRole({ id: role.id, position: role.position, permissions: role.permissions, }); return <RoleBadge key={role.id} role={role} canRemove={canRemoveRole} guildId={guildId} userId={userId} />; })} </div> ); }); interface ManageRolesMenuContentProps { guildId: string; userId: string; onClose: () => void; } const ManageRolesMenuContent: React.FC<ManageRolesMenuContentProps> = observer(function ManageRolesMenuContent({ guildId, userId, onClose, }) { const guild = GuildStore.getGuild(guildId); const currentMember = GuildMemberStore.getMember(guildId, userId); const {canManageRole} = useRoleHierarchy(guild); const handleOpenGuildSettings = useCallback(() => { onClose(); if (GuildSettingsModalStore.navigateToTab(guildId, 'roles')) { return; } ModalActionCreators.push(modal(() => <GuildSettingsModal guildId={guildId} initialTab="roles" />)); }, [guildId, onClose]); const allRoles = useMemo(() => { if (!guild) return []; return Object.values(guild.roles) .filter((role) => !role.isEveryone) .sort((a, b) => b.position - a.position) .map((role) => ({ role, canManage: canManageRole({id: role.id, position: role.position, permissions: role.permissions}), })); }, [guild, canManageRole]); const handleToggleRole = useCallback( async (roleId: string, hasRole: boolean, canManage: boolean) => { if (!canManage) return; if (hasRole) { await GuildMemberActionCreators.removeRole(guildId, userId, roleId); } else { await GuildMemberActionCreators.addRole(guildId, userId, roleId); } }, [guildId, userId], ); if (allRoles.length === 0) { return ( <MenuGroup> <MenuItem onClick={handleOpenGuildSettings}> <Trans>No roles yet, add roles in Community Settings</Trans> </MenuItem> </MenuGroup> ); } return ( <MenuGroup> {allRoles.map(({role, canManage}) => { const hasRole = currentMember?.roles.has(role.id) ?? false; return ( <CheckboxItem key={role.id} checked={hasRole} disabled={!canManage} onCheckedChange={() => handleToggleRole(role.id, hasRole, canManage)} closeOnChange={false} > <div className={itemStyles.roleContainer}> <div className={itemStyles.roleIcon} style={{backgroundColor: ColorUtils.int2rgb(role.color)}} /> <span className={clsx(itemStyles.roleName, !canManage && itemStyles.roleDisabled)}>{role.name}</span> </div> </CheckboxItem> ); })} </MenuGroup> ); }); interface ManageRolesBottomSheetProps { isOpen: boolean; onClose: () => void; guildId: string; userId: string; } export const ManageRolesBottomSheet: React.FC<ManageRolesBottomSheetProps> = observer(function ManageRolesBottomSheet({ isOpen, onClose, guildId, userId, }) { const {t} = useLingui(); const guild = GuildStore.getGuild(guildId); const currentMember = GuildMemberStore.getMember(guildId, userId); const {canManageRole} = useRoleHierarchy(guild); const handleOpenGuildSettings = useCallback(() => { onClose(); if (GuildSettingsModalStore.navigateToTab(guildId, 'roles')) { return; } ModalActionCreators.push(modal(() => <GuildSettingsModal guildId={guildId} initialTab="roles" />)); }, [guildId, onClose]); const allRoles = useMemo(() => { if (!guild) return []; return Object.values(guild.roles) .filter((role) => !role.isEveryone) .sort((a, b) => b.position - a.position) .map((role) => ({ role, canManage: canManageRole({id: role.id, position: role.position, permissions: role.permissions}), })); }, [guild, canManageRole]); const menuGroups: Array<MenuGroupType> = useMemo(() => { if (allRoles.length === 0) { return [ { items: [ { icon: <PlusIcon weight="bold" className={styles.iconSize} />, label: t`No roles yet, add roles in Community Settings`, onClick: handleOpenGuildSettings, }, ], }, ]; } return [ { items: allRoles.map(({role, canManage}) => { const hasRole = currentMember?.roles.has(role.id) ?? false; return { label: role.name, checked: hasRole, disabled: !canManage, onChange: async () => { if (!canManage) return; if (hasRole) { await GuildMemberActionCreators.removeRole(guildId, userId, role.id); } else { await GuildMemberActionCreators.addRole(guildId, userId, role.id); } }, icon: ( <div className={styles.roleColorIndicator} style={{backgroundColor: ColorUtils.int2rgb(role.color)}} /> ), }; }), }, ]; }, [allRoles, currentMember, guildId, userId, handleOpenGuildSettings]); return <MenuBottomSheet isOpen={isOpen} onClose={onClose} title={t`Manage Roles`} groups={menuGroups} />; }); function openNoRolesModal(guildId: string) { function NoRolesModalDescription() { const {t} = useLingui(); const handleOpenRolesSettings = useCallback(() => { ModalActionCreators.pop(); if (GuildSettingsModalStore.navigateToTab(guildId, 'roles')) { return; } ModalActionCreators.push(modal(() => <GuildSettingsModal guildId={guildId} initialTab="roles" />)); }, []); return ( <Trans> There are no roles to assign in this community at this time, but you can create a new role in{' '} <button type="button" className={styles.noRolesLink} onClick={handleOpenRolesSettings}> {t`Community Settings > Roles & Permissions`} </button> . </Trans> ); } ModalActionCreators.push( modal(() => ( <ConfirmModal title={<Trans>No Roles Available</Trans>} description={<NoRolesModalDescription />} primaryText={<Trans>OK</Trans>} primaryVariant="primary" secondaryText={false} onPrimary={() => {}} /> )), ); } export const AddRoleButton: React.FC<{ guildId: string; userId: string; }> = observer(function AddRoleButton({guildId, userId}) { const {t} = useLingui(); const guild = GuildStore.getGuild(guildId); const member = GuildMemberStore.getMember(guildId, userId); const isMobile = MobileLayoutStore.enabled; const [showBottomSheet, setShowBottomSheet] = useState(false); const hasRoles = useMemo(() => { if (!guild) return false; return Object.values(guild.roles).some((r) => !r.isEveryone); }, [guild]); const handleClick = useCallback( (event: React.MouseEvent<HTMLButtonElement>) => { if (!hasRoles) { openNoRolesModal(guildId); return; } if (isMobile) { setShowBottomSheet(true); } else { ContextMenuActionCreators.openFromEvent(event, ({onClose}) => ( <ManageRolesMenuContent guildId={guildId} userId={userId} onClose={onClose} /> )); } }, [guildId, userId, isMobile, hasRoles], ); if (!guild || !member) return null; return ( <> <Tooltip text={t`Add Role`}> <FocusRing offset={-2}> <button type="button" className={clsx(styles.addRoleButton, styles.addRoleButtonIcon)} onClick={handleClick}> <PlusIcon weight="bold" className={styles.iconSize} /> </button> </FocusRing> </Tooltip> {isMobile && ( <ManageRolesBottomSheet isOpen={showBottomSheet} onClose={() => setShowBottomSheet(false)} guildId={guildId} userId={userId} /> )} </> ); }); 
 #: src/components/guild/RoleManagement.tsx:291
 msgid "There are no roles to assign in this community at this time, but you can create a new role in <0>{0}</0>."
-msgstr "Jelenleg nincsenek szerepek, amelyeket hozzárendelhetnél ehhez a közösséghez, de új szerepet létrehozhatsz a <0>{0}</0> oldalon."
+msgstr "Jelenleg nincsenek rangok, amelyeket hozzárendelhetnél ehhez a közösséghez, de új rangot létrehozhatsz a <0>{0}</0> oldalon."
 
 #: src/components/modals/channel_tabs/ChannelWebhooksTab.tsx:194
 msgid "There are no webhooks configured for this channel. Create a webhook to allow external applications to post messages."
@@ -21334,7 +21334,7 @@ msgstr "Ez az alkalmazás"
 #: src/components/channel/embeds/attachments/Attachment.tsx:424
 #: src/components/channel/embeds/attachments/Attachment.tsx:449
 msgid "This attachment has expired"
-msgstr "Ez a melléklet lejárt"
+msgstr "Ez a castolmány lejárt"
 
 #: src/components/pages/OAuthAuthorizePage.tsx:647
 msgid "This bot is requesting the Administrator permission. We do not recommend granting this to production apps unless you fully trust the developer. Consider asking them to request a reduced set of permissions. Close this page if you are unsure."
@@ -21640,7 +21640,7 @@ msgstr "Ez eltávolítja az összes korábban engedélyezett IP-címet a fiókod
 
 #: src/components/channel/MentionEveryonePopout.tsx:45
 msgid "this role"
-msgstr "ez a szerep"
+msgstr "ez a rang"
 
 #: src/components/modals/tabs/accessibility_tab/AnimationTab.tsx:67
 msgid "This setting is currently overridden by your reduced motion preferences"
@@ -21687,7 +21687,7 @@ msgstr "Lehetséges, hogy ezt a témát eltávolították, vagy a link érvényt
 
 #: src/components/popouts/UserProfileShared.tsx:264
 msgid "This user has no roles in this community."
-msgstr "Ennek a felhasználónak nincsenek szerepei ebben a közösségben."
+msgstr "Ennek a felhasználónak nincsenek rangjai ebben a közösségben."
 
 #: src/components/alerts/CallNotRingableModal.tsx:30
 msgid "This user is not available to receive calls right now. They may have calls disabled."
@@ -21735,7 +21735,7 @@ msgstr "Ez értesíteni fog <0>{0}</0> tagot ebben a csatornában. Biztosan ezt 
 #. placeholder {1}: roleName ?? t?.(msg`mentioned role`) ?? 'mentioned role'
 #: src/components/channel/MentionEveryonePopout.tsx:61
 msgid "This will notify <0>{0}</0> members with the <1>{1}</1> in this channel. Are you sure you want to do this?"
-msgstr "Ez értesíteni fog <0>{0}</0> tagot a(z) <1>{1}</1> szereppel ebben a csatornában. Biztosan ezt akarod tenni?"
+msgstr "Ez értesíteni fog <0>{0}</0> tagot a(z) <1>{1}</1> ranggal ebben a csatornában. Biztosan ezt akarod tenni?"
 
 #. placeholder {0}: formatNumber(memberCount, getCurrentLocale())
 #: src/components/channel/MentionEveryonePopout.tsx:77
@@ -21764,7 +21764,7 @@ msgstr "Ez megbízhatóvá teszi az összes külső linket, és kihagyja a figye
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/MessageHistoryThresholdContent.tsx:215
 msgid "Threshold Date"
-msgstr "Küszöbnap"
+msgstr "Küszöb Dátum"
 
 #: src/components/channel/embeds/media/EmbedVideo.tsx:99
 #: src/components/channel/embeds/media/EmbedVideo.tsx:108
@@ -21802,7 +21802,7 @@ msgstr "Idő: {currentFormatted} / {durationFormatted}"
 
 #: src/components/channel/MessageAuthorInfo.tsx:92
 msgid "Timed out"
-msgstr "Időtúllépés"
+msgstr "Fellfüggesztve"
 
 #. placeholder {0}: renderInline(formatted, i18n)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:582
@@ -21816,13 +21816,13 @@ msgstr "Kitiltás vége: {0}."
 #: src/components/uikit/context_menu/items/ModerationSubmenu.tsx:189
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:918
 msgid "Timeout"
-msgstr "Kitiltás"
+msgstr "Felfüggesztés"
 
 #. placeholder {0}: targetUser.tag
 #: src/components/modals/TimeoutMemberModal.tsx:143
 #: src/components/modals/TimeoutMemberSheet.tsx:142
 msgid "Timeout {0}"
-msgstr "Kitiltás {0}"
+msgstr "Felfüggesztés {0}"
 
 #: src/components/modals/TimeoutMemberModal.tsx:107
 msgid "Timeout cannot exceed 365 days."
@@ -21830,17 +21830,17 @@ msgstr "A kitiltás nem lehet hosszabb 365 napnál."
 
 #: src/components/modals/TimeoutMemberModal.tsx:154
 msgid "Timeout Duration"
-msgstr "Kitiltás időtartama"
+msgstr "Kitiltás Időtartama"
 
 #. placeholder {0}: formatShortRelativeTime(timeoutUntil)
 #. placeholder {1}: DateUtils.getFormattedDateTime(timeoutUntil)
 #: src/components/channel/MessageAuthorInfo.tsx:85
 msgid "Timeout ends {0} ({1})"
-msgstr "Kitiltás vége: {0} ({1})"
+msgstr "Felfüggesztés vége: {0} ({1})"
 
 #: src/utils/PermissionUtils.tsx:369
 msgid "Timeout Members"
-msgstr "Tagok kitiltása"
+msgstr "Tagok Felfüggesztése"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:146
 msgid "timestamps"
@@ -21881,7 +21881,7 @@ msgstr "Toast üzenet, amely a mock módban az újraküldésre kattintva jelenik
 
 #: src/components/modals/tabs/component_gallery_tab/OverlaysTab.tsx:77
 msgid "Toasts"
-msgstr "Toast üzenetek"
+msgstr "Toast Üzenetek"
 
 #: src/components/modals/tabs/component_gallery_tab/OverlaysTab.tsx:78
 msgid "Toasts appear in the top-center of the screen."
@@ -21898,7 +21898,7 @@ msgstr "Ma"
 #: src/lib/markdown/utils/DateFormatter.tsx:43
 #: src/utils/DateUtils.tsx:63
 msgid "Today at {timeString}"
-msgstr "Ma, {timeString}"
+msgstr "Ma, {timeString} kor"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:677
 msgid "toggle"
@@ -21906,11 +21906,11 @@ msgstr "kapcsolás"
 
 #: src/stores/KeybindStore.tsx:239
 msgid "Toggle Channel Member List"
-msgstr "Csatornatagok lista be/ki"
+msgstr "Csatornatagok Lista Be/Ki"
 
 #: src/stores/QuickSwitcherStore.tsx:911
 msgid "Toggle Compact Mode"
-msgstr "Kompakt mód be/ki"
+msgstr "Kompakt Mód Be/Ki"
 
 #: src/components/modals/MobileVideoViewer.tsx:247
 msgid "Toggle controls"
@@ -21918,7 +21918,7 @@ msgstr "Vezérlők váltása"
 
 #: src/stores/KeybindStore.tsx:483
 msgid "Toggle Deaf"
-msgstr "Siketítés be/ki"
+msgstr "Siketítés Be/Ki"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:208
 msgid "toggle deafen"
@@ -21926,15 +21926,15 @@ msgstr "némítás váltása"
 
 #: src/stores/KeybindStore.tsx:406
 msgid "Toggle Embed Suppression"
-msgstr "Embed elrejtés váltása"
+msgstr "Embed Elrejtés Váltása"
 
 #: src/stores/KeybindStore.tsx:246
 msgid "Toggle Emoji Picker"
-msgstr "Emoji választó be/ki"
+msgstr "Emoji Választó Be/Ki"
 
 #: src/stores/KeybindStore.tsx:253
 msgid "Toggle GIF Picker"
-msgstr "GIF választó be/ki"
+msgstr "GIF Választó Be/Ki"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:224
 msgid "Toggle hardware acceleration"
@@ -21942,15 +21942,15 @@ msgstr "Hardveres gyorsítás be-/kikapcsolása"
 
 #: src/stores/KeybindStore.tsx:218
 msgid "Toggle Hotkeys"
-msgstr "Gyorsbillentyűk be/ki"
+msgstr "Gyorsbillentyűk Be/Ki"
 
 #: src/stores/KeybindStore.tsx:232
 msgid "Toggle Inbox Popout"
-msgstr "Bejövő üzenetek felugró ablakának váltása"
+msgstr "Bejövő Üzenetek Felugró Ablakának Váltása"
 
 #: src/stores/KeybindStore.tsx:204
 msgid "Toggle Last Community / DMs"
-msgstr "Utolsó közösség / privát üzenetek be/ki"
+msgstr "Utolsó Közösség / Privát Üzenetek Be/Ki"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:201
 msgid "toggle mute"
@@ -21958,11 +21958,11 @@ msgstr "némítás váltása"
 
 #: src/stores/KeybindStore.tsx:475
 msgid "Toggle Mute"
-msgstr "Némítás be/ki"
+msgstr "Némítás Be/Ki"
 
 #: src/stores/KeybindStore.tsx:225
 msgid "Toggle Pins Popout"
-msgstr "Rögzítések felugró ablak be/ki"
+msgstr "Rögzítések Felugró Ablak Be/kKi"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:122
 msgid "Toggle premium_enabled_override on the backend"
@@ -21970,15 +21970,15 @@ msgstr "premium_enabled_override be/ki a backendben"
 
 #: src/stores/QuickSwitcherStore.tsx:927
 msgid "Toggle Reduced Motion"
-msgstr "Csökkentett mozgás be/ki"
+msgstr "Csökkentett Mozgás Be/Ki"
 
 #: src/stores/KeybindStore.tsx:267
 msgid "Toggle Saved Media"
-msgstr "Mentett média váltása"
+msgstr "Mentett Média Váltása"
 
 #: src/stores/KeybindStore.tsx:260
 msgid "Toggle Sticker Picker"
-msgstr "Matrica választó be/ki"
+msgstr "Matrica Választó Be/Ki"
 
 #: src/components/modals/tabs/component_gallery_tab/SelectionsTab.tsx:140
 msgid "Toggle switches on and off to see state changes."
@@ -21986,7 +21986,7 @@ msgstr "Kapcsolókat be- és kikapcsolva láthatod az állapotváltozásokat."
 
 #: src/stores/QuickSwitcherStore.tsx:897
 msgid "Toggle Theme"
-msgstr "Téma be/ki"
+msgstr "Téma Be/Ki"
 
 #: src/components/modals/PackInviteModal.tsx:134
 msgid "Toggle unique invite"
@@ -22007,11 +22007,11 @@ msgstr "A HDR képeket szabványos tartományra térképezi, csökkentve a csúc
 
 #: src/components/modals/tabs/components/MicTestSection.tsx:80
 msgid "Too Loud"
-msgstr "Túl hangos"
+msgstr "Túl Hangos"
 
 #: src/components/alerts/MaxGuildsModal.tsx:35
 msgid "Too Many Communities"
-msgstr "Túl sok közösség"
+msgstr "Túl Sok Közösség"
 
 #: src/components/modals/components/EmailVerificationAlert.tsx:43
 #: src/components/modals/RequiredActionModal.tsx:338
@@ -22021,7 +22021,7 @@ msgstr "Túl sok kérés. Kérlek, próbáld újra később."
 
 #: src/components/modals/tabs/components/MicTestSection.tsx:77
 msgid "Too Quiet"
-msgstr "Túl csendes"
+msgstr "Túl Xsendes"
 
 #: src/AppConstants.tsx:54
 msgid "Took the DeLorean out, but I'll be back in time"
@@ -22053,7 +22053,7 @@ msgstr "Legfelül"
 
 #: src/components/modals/tabs/component_gallery_tab/OverlaysTab.tsx:53
 msgid "Top Tooltip"
-msgstr "Legfelső eszköztipp"
+msgstr "Legfelső Eszköztipp"
 
 #: src/components/modals/channel_tabs/ChannelOverviewTab.tsx:519
 msgid "Topic"
@@ -22061,7 +22061,7 @@ msgstr "Téma"
 
 #: src/components/debug/MessageDebugModal.tsx:178
 msgid "Total Parsing Time:"
-msgstr "Teljes feldolgozási idő:"
+msgstr "Teljes Feldolgozási Idő:"
 
 #: src/components/modals/utils/SettingsSearchIndex.tsx:130
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:517
@@ -22074,7 +22074,7 @@ msgstr "Kövess moderátori műveleteket a közösségben."
 
 #: src/components/modals/TransferOwnershipModal.tsx:70
 msgid "Transfer Community Ownership"
-msgstr "Közösség tulajdonjogának átruházása"
+msgstr "Közösség Tulajdonjogának Átruházása"
 
 #: src/components/modals/guild_tabs/GuildMemberActionsSheet.tsx:347
 #: src/components/modals/TransferOwnershipModal.tsx:88
@@ -22085,7 +22085,7 @@ msgstr "Közösség tulajdonjogának átruházása"
 #: src/components/uikit/context_menu/items/ModerationSubmenu.tsx:180
 #: src/components/uikit/context_menu/UserContextMenu.tsx:150
 msgid "Transfer Ownership"
-msgstr "Tulajdonjog átruházása"
+msgstr "Tulajdonjog Átruházása"
 
 #. placeholder {0}: renderInline(change.newValue, i18n, guildId)
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Renderers.tsx:265
@@ -22098,7 +22098,7 @@ msgstr "fordítás"
 
 #: src/lib/UnicodeEmojis.tsx:242
 msgid "Travel & Places"
-msgstr "Utazás és helyek"
+msgstr "Utazás és Helyek"
 
 #: src/components/modals/AddGuildModal.tsx:173
 msgid "Travel Buddies"
@@ -22111,11 +22111,11 @@ msgstr "Felkapott GIF-ek"
 
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:113
 msgid "Trigger Mock Incoming Call"
-msgstr "Beérkező hívás szimulálása"
+msgstr "Beérkező Hívás Szimulálása"
 
 #: src/components/modals/tabs/developer_options_tab/ToolsTab.tsx:265
 msgid "Trigger React Crash"
-msgstr "React összeomlás indítása"
+msgstr "React Összeomlás Indítása"
 
 #: src/utils/SearchUtils.tsx:287
 msgid "true"
@@ -22127,7 +22127,7 @@ msgstr "igaz vagy hamis"
 
 #: src/components/modals/tabs/chat_settings_tab/LinksTab.tsx:58
 msgid "Trust All"
-msgstr "Minden megbízható"
+msgstr "Minden Megbízható"
 
 #: src/components/modals/tabs/chat_settings_tab/LinksTab.tsx:90
 msgid "Trust all external links"
@@ -22172,7 +22172,7 @@ msgstr "Próbáld újra"
 #: src/components/NetworkErrorScreen.tsx:56
 #: src/components/pages/SsoCallbackPage.tsx:116
 msgid "Try Again"
-msgstr "Próbáld újra"
+msgstr "Próbáld Újra"
 
 #: src/components/auth/MfaScreen.tsx:148
 msgid "Try another method"
@@ -22206,7 +22206,7 @@ msgstr "Próbáld inkább a biztonsági kulcsot / jelszót"
 
 #: src/components/modals/CaptchaModal.tsx:178
 msgid "Try Turnstile instead"
-msgstr "Próbáld inkább a Turnstile-t"
+msgstr "Próbáld Inkább a Turnstile-t"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:262
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:591
@@ -22235,22 +22235,22 @@ msgstr "Kapcsold ki, amivel nem vagy kényelmes. Néhány funkció lehet, hogy n
 #: src/components/voice/VoiceConnectionStatus.tsx:814
 #: src/components/voice/VoiceControlBar.tsx:691
 msgid "Turn Off Camera"
-msgstr "Kamera kikapcsolása"
+msgstr "Kamera Kikapcsolása"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:478
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:409
 msgid "Turn Off Device Camera"
-msgstr "Eszköz kamera kikapcsolása"
+msgstr "Eszköz Kamera Kikapcsolása"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:489
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:432
 msgid "Turn Off Device Stream"
-msgstr "Eszköz stream kikapcsolása"
+msgstr "Eszköz Stream Kikapcsolása"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:538
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:183
 msgid "Turn Off Stream"
-msgstr "Stream kikapcsolása"
+msgstr "Stream Kikapcsolása"
 
 #: src/components/modals/CameraPreviewModal.tsx:489
 #: src/components/voice/VoiceConnectionStatus.tsx:815
@@ -22258,7 +22258,7 @@ msgstr "Stream kikapcsolása"
 #: src/components/voice/VoiceConnectionStatus.tsx:1100
 #: src/components/voice/VoiceControlBar.tsx:692
 msgid "Turn On Camera"
-msgstr "Kamera bekapcsolása"
+msgstr "Kamera Bekapcsolása"
 
 #: src/components/pages/OAuthAuthorizePage.tsx:852
 msgid "Turning off scopes may prevent the app from working correctly."
@@ -22302,7 +22302,7 @@ msgstr "Kétfaktoros hitelesítés"
 #: src/components/modals/tabs/account_security_tab/SecurityTab.tsx:218
 #: src/components/modals/utils/SettingsSearchIndex.tsx:123
 msgid "Two-Factor Authentication"
-msgstr "Kétfaktoros hitelesítés"
+msgstr "Kétfaktoros Hitelesítés"
 
 #: src/components/modals/MfaTotpDisableModal.tsx:43
 msgid "Two-factor authentication disabled"
@@ -22356,19 +22356,19 @@ msgstr "gépelési jelző"
 #: src/components/channel/Typing.tsx:55
 #: src/components/uikit/BaseAvatar.tsx:255
 msgid "Typing indicator"
-msgstr "Gépelési jelző"
+msgstr "Gépelési Jelző"
 
 #: src/components/modals/tabs/appearance_tab/InterfaceTab.tsx:90
 msgid "Typing Indicator + Avatars"
-msgstr "Írási jelző + avatárok"
+msgstr "Írási Jelző + Avatárok"
 
 #: src/components/modals/tabs/appearance_tab/InterfaceTab.tsx:95
 msgid "Typing Indicator Only"
-msgstr "Csak írási jelző"
+msgstr "Csak Írási Jelző"
 
 #: src/components/modals/tabs/component_gallery_tab/IndicatorsTab.tsx:189
 msgid "Typing State"
-msgstr "Gépelési állapot"
+msgstr "Gépelési Állapot"
 
 #: src/components/modals/utils/SettingsSectionRegistry.tsx:340
 msgid "typing status"
@@ -22387,11 +22387,11 @@ msgstr "Tipográfia"
 
 #: src/components/modals/tabs/developer_options_tab/TypographyTab.tsx:132
 msgid "Typography Showcase"
-msgstr "Tipográfia bemutató"
+msgstr "Tipográfia Bemutató"
 
 #: src/components/modals/tabs/developer_options_tab/DeveloperOptionsToggleGroups.tsx:50
 msgid "UI Components"
-msgstr "UI komponensek"
+msgstr "UI Komponensek"
 
 #: src/components/modals/utils/SettingsConstants.tsx:241
 msgid "UI Kit"
@@ -22509,7 +22509,7 @@ msgstr "Távolítsd el a felhasználó tiltását, mielőtt barátkérelmet kül
 #: src/components/modals/UserProfileModal.tsx:1300
 #: src/utils/RelationshipActionUtils.tsx:173
 msgid "Unblock User"
-msgstr "Felhasználó tiltásának feloldása"
+msgstr "Felhasználó Tiltásának Feloldása"
 
 #: src/components/channel/direct_message/DMList.tsx:243
 #: src/components/modals/AddFavoriteChannelModal.tsx:170
@@ -22521,15 +22521,15 @@ msgstr "Kategorizálatlan"
 #: src/components/modals/components/UnclaimedAccountAlert.tsx:29
 #: src/components/modals/tabs/developer_options_tab/MockingTab.tsx:51
 msgid "Unclaimed Account"
-msgstr "Nem igazolt fiók"
+msgstr "Nem Igazolt Fiók"
 
 #: src/components/modals/tabs/developer_options_tab/NagbarControls.tsx:51
 msgid "Unclaimed Account Nagbar"
-msgstr "Nem igazolt fiók figyelmeztetés"
+msgstr "Nem Igazolt Fiók Figyelmeztetés"
 
 #: src/components/modals/tabs/developer_options_tab/AccountPremiumTab.tsx:67
 msgid "Unclaimed Account Override"
-msgstr "Nem igazolt fiók felülbírálása"
+msgstr "Nem Igazolt Fiók Felülbírálása"
 
 #: src/components/bottomsheets/DirectCallLobbyBottomSheet.tsx:286
 #: src/components/bottomsheets/VoiceLobbyBottomSheet.tsx:211
@@ -22537,12 +22537,12 @@ msgstr "Nem igazolt fiók felülbírálása"
 #: src/components/layout/UserArea.tsx:174
 #: src/components/voice/VoiceControlBar.tsx:611
 msgid "Undeafen"
-msgstr "Siketítés feloldása"
+msgstr "Siketítés Feloldása"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:716
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:500
 msgid "Undeafen All Devices"
-msgstr "Összes eszköz siketítésének feloldása"
+msgstr "Összes Eszköz Siketítésének Feloldása"
 
 #: src/components/pages/report/OptionDescriptors.tsx:63
 #: src/constants/IARConstants.tsx:129
@@ -22583,30 +22583,30 @@ msgstr "Visszavonás"
 #: src/components/channel/direct_message/DMList.tsx:220
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:395
 msgid "Unfavorite Channel"
-msgstr "Csatorna kedvencekből eltávolítása"
+msgstr "Csatorna Kedvencekből Eltávolítása"
 
 #: src/components/channel/direct_message/DMList.tsx:215
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:390
 msgid "Unfavorite DM"
-msgstr "Privát üzenet kedvencekből eltávolítása"
+msgstr "Privát üzenet Kedvencekből Eltávolítása"
 
 #: src/components/channel/emoji_picker/EmojiRenderer.tsx:122
 msgid "Unfavorite Emoji"
-msgstr "Emoji kedvencekből eltávolítása"
+msgstr "Emoji Kedvencekből Eltávolítása"
 
 #: src/components/channel/direct_message/DMList.tsx:218
 #: src/components/uikit/context_menu/items/ChannelMenuItems.tsx:393
 msgid "Unfavorite Group DM"
-msgstr "Csoportos privát üzenet kedvencekből eltávolítása"
+msgstr "Csoportos Privát Üzenet Kedvencekből Eltávolítása"
 
 #: src/components/channel/sticker_picker/VirtualRow.tsx:269
 msgid "Unfavorite Sticker"
-msgstr "Matrica kedvencekből eltávolítása"
+msgstr "Matrica Kedvencekből Eltávolítása"
 
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:363
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:592
 msgid "Unfocus"
-msgstr "Fókusz eltávolítása"
+msgstr "Fókusz Eltávolítása"
 
 #: src/components/modals/PackInviteModal.tsx:131
 msgid "Unique invite"
@@ -22641,7 +22641,7 @@ msgstr "Ismeretlen csatorna"
 #: src/components/modals/UploadDropModal.tsx:39
 #: src/utils/ChannelUtils.tsx:114
 msgid "Unknown Channel"
-msgstr "Ismeretlen csatorna"
+msgstr "Ismeretlen Csatorna"
 
 #: src/components/pages/OAuthAuthorizePage.tsx:247
 msgid "Unknown community"
@@ -22653,7 +22653,7 @@ msgstr "Ismeretlen eszköz"
 
 #: src/components/layout/VoiceParticipantItem.tsx:191
 msgid "Unknown Device"
-msgstr "Ismeretlen eszköz"
+msgstr "Ismeretlen Eszköz"
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:66
 msgid "unknown entity"
@@ -22666,21 +22666,21 @@ msgstr "Ismeretlen hiba"
 #: src/components/channel/GiftEmbed.tsx:165
 #: src/components/modals/GiftAcceptModal.tsx:103
 msgid "Unknown Gift"
-msgstr "Ismeretlen ajándék"
+msgstr "Ismeretlen Ajándék"
 
 #: src/components/channel/InviteEmbed.tsx:385
 msgid "Unknown Invite"
-msgstr "Ismeretlen meghívó"
+msgstr "Ismeretlen Meghívó"
 
 #: src/utils/TtsTextFormatter.tsx:56
 #: src/utils/TtsTextFormatter.tsx:61
 #: src/utils/TtsTextFormatter.tsx:65
 msgid "unknown role"
-msgstr "ismeretlen szerep"
+msgstr "ismeretlen rang"
 
 #: src/lib/markdown/renderers/MentionRenderer.tsx:143
 msgid "Unknown Role"
-msgstr "Ismeretlen szerep"
+msgstr "Ismeretlen rang"
 
 #: src/components/modals/guild_tabs/GuildAuditLogTab.Utils.tsx:408
 msgid "Unknown target"
@@ -22700,7 +22700,7 @@ msgstr "Ismeretlen felhasználó"
 #: src/utils/ChannelUtils.tsx:88
 #: src/utils/ChannelUtils.tsx:93
 msgid "Unknown User"
-msgstr "Ismeretlen felhasználó"
+msgstr "Ismeretlen Felhasználó"
 
 #: src/lib/markdown/Plaintext.tsx:239
 #: src/lib/markdown/renderers/MentionRenderer.tsx:169
@@ -22713,7 +22713,7 @@ msgstr "ismeretlen-említés"
 
 #: src/lib/markdown/Plaintext.tsx:231
 msgid "unknown-role"
-msgstr "ismeretlen-szerep"
+msgstr "ismeretlen-rang"
 
 #: src/components/modals/PackInviteModal.tsx:59
 msgid "Unlimited"
@@ -22725,7 +22725,7 @@ msgstr "Korlátlan emoji"
 
 #: src/utils/modals/guild_tabs/GuildAuditLogTabUtils.tsx:276
 msgid "Unlimited stickers"
-msgstr "Korlátlan matrica"
+msgstr "Korlátlan matricák"
 
 #: src/components/channel/EmojiPicker.tsx:176
 #: src/components/channel/MobileEmojiPicker.tsx:179
@@ -22785,7 +22785,7 @@ msgstr "Nyiss ki matricákat privát üzenetekben Plutoniummal"
 #: src/components/modals/MobileVideoViewer.tsx:280
 #: src/components/voice/VoiceControlBar.tsx:602
 msgid "Unmute"
-msgstr "Némítás feloldása"
+msgstr "Némítás Feloldása"
 
 #: src/components/uikit/context_menu/items/DMMenuItems.tsx:69
 msgid "Unmute {displayLabel}"
@@ -22794,14 +22794,14 @@ msgstr "Némítás feloldása: {displayLabel}"
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuData.tsx:703
 #: src/components/uikit/context_menu/items/VoiceParticipantMenuItems.tsx:475
 msgid "Unmute All Devices"
-msgstr "Minden eszköz némításának feloldása"
+msgstr "Minden Eszköz Némításának Feloldása"
 
 #: src/components/bottomsheets/CategoryBottomSheet.tsx:63
 #: src/components/uikit/context_menu/CategoryContextMenu.tsx:40
 #: src/components/uikit/context_menu/items/CategoryMenuData.tsx:257
 #: src/components/uikit/context_menu/items/CategoryMenuItems.tsx:174
 msgid "Unmute Category"
-msgstr "Kategória némításának feloldása"
+msgstr "Kategória Némításának Feloldása"
 
 #: src/components/bottomsheets/ChannelBottomSheet.tsx:61
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:1148
@@ -22864,14 +22864,14 @@ msgstr "Névtelen Csoport"
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:400
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:612
 msgid "Unpin DM"
-msgstr "Privát üzenet rögzítésének törlése"
+msgstr "Privát Üzenet Rögzítésének Törlése"
 
 #: src/components/bottomsheets/ChannelDetailsBottomSheet.tsx:1190
 #: src/components/channel/direct_message/DMList.tsx:547
 #: src/components/uikit/context_menu/items/ChannelMenuData.tsx:347
 #: src/components/uikit/context_menu/items/DMMenuData.tsx:612
 msgid "Unpin Group DM"
-msgstr "Csoport privát üzenet rögzítésének törlése"
+msgstr "Csoport Privát Üzenet Rögzítésének Törlése"
 
 #: src/components/channel/MessageActionUtils.tsx:413
 #: src/components/shared/ChannelPinsContent.tsx:102
@@ -24275,7 +24275,7 @@ msgstr "Jelenleg nem tudtuk lezárni a közvetlen üzenetet."
 
 #: src/components/alerts/RoleCreateFailedModal.tsx:27
 msgid "We couldn't create a new role at this time."
-msgstr "Jelenleg nem tudtunk új szerepet létrehozni."
+msgstr "Jelenleg nem tudtunk új rangot létrehozni."
 
 #: src/components/alerts/MessageForwardFailedModal.tsx:30
 msgid "We couldn't forward the message at this time."
@@ -24324,11 +24324,11 @@ msgstr "Jelenleg nem tudtuk visszavonni a meghívót. A meghívó link továbbra
 
 #: src/components/alerts/ChannelPermissionsUpdateFailedModal.tsx:30
 msgid "We couldn't save your channel permission changes at this time."
-msgstr "Jelenleg nem tudtuk menteni a csatornaengedélyeid változtatásait."
+msgstr "Jelenleg nem tudtuk menteni a csatorna jogosultság változtatásait."
 
 #: src/components/alerts/RoleUpdateFailedModal.tsx:30
 msgid "We couldn't save your role changes at this time."
-msgstr "Jelenleg nem tudtuk menteni a szerepeid változtatásait."
+msgstr "Jelenleg nem tudtuk menteni a rangod változtatásait."
 
 #: src/utils/accounts/AccountSwitcherModalUtils.tsx:104
 msgid "We couldn't switch accounts. Please try again."
@@ -24899,7 +24899,7 @@ msgstr "További ajándék kódokat válthat be, hogy <0>meghosszabbítsa</0> az
 
 #: src/components/modals/guild_tabs/guild_overview_tab/sections/MessageHistoryThresholdContent.tsx:52
 msgid "You can remove the <0>Read Message History</0> permission from the <1>@everyone</1> role in the <2>Roles & Permissions</2> tab and grant it to one or more trusted roles instead."
-msgstr "Eltávolíthatod a <0>Üzenetelőzmények olvasása</0> engedélyt az <1>@everyone</1> szerepből a <2>Szerepek és engedélyek</2> fülön, és átadhatod azt egy vagy több megbízható szerepnek."
+msgstr "Eltávolíthatod a <0>Üzenetelőzmények olvasása</0> engedélyt az <1>@everyone</1> rangból a <2>Rangok és Jogosutlságok</2> fülön, és átadhatod azt egy vagy több megbízható rangnak."
 
 #: src/components/modals/tabs/privacy_safety_tab/DataExportTab.tsx:120
 msgid "You can request a data export once every 7 days. You'll receive an email with a download link valid for 7 days."
@@ -24984,7 +24984,7 @@ msgstr "Nem távolíthatod el ezt az jogousltságot, mert magadtól is elvennéd
 
 #: src/components/alerts/RoleNameBlankModal.tsx:29
 msgid "You cannot save a role with a blank name. Please provide a valid name before saving."
-msgstr "Nem menthetsz üres névvel ellátott szerepet. Kérlek, adj meg egy érvényes nevet mentés előtt."
+msgstr "Nem menthetsz üres névvel ellátott rangot. Kérlek, adj meg egy érvényes nevet mentés előtt."
 
 #: src/components/channel/barriers/BarrierComponents.tsx:238
 msgid "You cannot send messages in this community."
@@ -25211,7 +25211,7 @@ msgstr "A Csatornák kezelése jogosultság szükséges ezen engedélyek szerkes
 #: src/components/modals/channel_tabs/ChannelPermissionsTab.tsx:312
 #: src/components/modals/guild_tabs/GuildRolesTab.tsx:703
 msgid "You need Manage Roles to edit these permissions"
-msgstr "A Szerepek kezelése jogosultság szükséges ezen engedélyek szerkesztéséhez"
+msgstr "A Rangok Kezelése jogosultság szükséges ezen engedélyek szerkesztéséhez"
 
 #: src/components/modals/channel_tabs/ChannelWebhooksTab.tsx:137
 msgid "You need the Manage Webhooks permission to view and edit webhooks for this channel."
